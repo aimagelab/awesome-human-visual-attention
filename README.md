@@ -2,7 +2,7 @@
 This repository contains a curated list of research papers and resources focusing on saliency and scanpath prediction, human attention, human visual search.
 
 
-❗ Latest Update: 22 November 2023
+❗ Latest Update: 22 November 2023. Work in progress, new updates coming soon !!! :construction: :construction:
 
 ## 📚 Table of Contents
 - [Preprints](#preprints)
