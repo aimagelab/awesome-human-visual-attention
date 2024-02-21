@@ -23,7 +23,7 @@ This repository contains a curated list of research papers and resources focusin
     </details>
     
     - <details>
-        <summary>Scanpath Prediction</summary>
+        <summary>## Scanpath Prediction</summary>
     
         | **Year** | **Conference / Journal** | **Title** | **Authors** | **Links** |
         |:--------:|:--------------:|:---------:|:-----------:|:---------:|
