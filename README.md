@@ -42,12 +42,15 @@ This repository contains a curated list of research papers and resources focusin
 |:--------:|:--------------:|:---------:|:-----------:|:---------:|
 |   2023   |      arXiv      | Contrastive Language-Image Pretrained Models are Zero-Shot Human Scanpath Predictors | *Dario Zanca et al.*    | [📜 Paper](https://arxiv.org/abs/2305.12380) / [Dataset ✅](https://github.com/mad-lab-fau/CapMIT1003)
 |   2023   |      CVPR      | Gazeformer: Scalable, Effective and Fast Prediction of Goal-Directed Human Attention | *Sounak Mondal et al.*    | [📜 Paper](https://arxiv.org/abs/2303.15274) / [Code :octocat:](https://github.com/cvlab-stonybrook/Gazeformer/)
-|   2022   |      ECCV      | Target-absent Human Attention | *Zhibo Yang et al.*    | [📜 Paper](https://arxiv.org/abs/2207.01166) / [Code ✅](https://github.com/cvlab-stonybrook/Target-absent-Human-Attention)
-|   2021   |      CVPR      | Predicting Human Scanpaths in Visual Question Answering | *Xianyu Chen et al.*    | [📜 Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Predicting_Human_Scanpaths_in_Visual_Question_Answering_CVPR_2021_paper.pdf) / [Code  ✅](https://github.com/chenxy99/Scanpaths)
+|   2022   |      ECCV      | Target-absent Human Attention | *Zhibo Yang et al.*    | [📜 Paper](https://arxiv.org/abs/2207.01166) / [Code :octocat:](https://github.com/cvlab-stonybrook/Target-absent-Human-Attention)
+|   2021   |      CVPR      | Predicting Human Scanpaths in Visual Question Answering | *Xianyu Chen et al.*    | [📜 Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Predicting_Human_Scanpaths_in_Visual_Question_Answering_CVPR_2021_paper.pdf) / [Code :octocat:](https://github.com/chenxy99/Scanpaths)
 
 # Integrating Human Attention in AI Models
 ## Image and Video Processing
 ### Visual Recognition
+| **Year** | **Conference / Journal** | **Title** | **Authors** | **Links** |
+|:--------:|:--------------:|:---------:|:-----------:|:---------:|
+|   2019   |      CVPR      | Shifting more attention to video salient object detection | *Dario Zanca et al.*    | [📜 Paper] (https://openaccess.thecvf.com/content_CVPR_2019/papers/Fan_Shifting_More_Attention_to_Video_Salient_Object_Detection_CVPR_2019_paper.pdf) / [Code :octocat:](https://github.com/DengPingFan/DAVSOD)
 ### Graphic Design
 ### Image Enhancement and Manipulation
 ### Image Quality Assessment
