@@ -5,14 +5,14 @@ This repository contains a curated list of research papers and resources focusin
 ❗ Latest Update: 22 November 2023. Work in progress, new updates coming soon !!! :construction: :construction:
 
 ## 📚 Table of Contents
-- [Preprints](#preprints)
+- [Preprints ✅](#preprints)
 - [Published Papers](#published-papers)
   - [Saliency Prediction](#saliency-prediction)
   - [Scanpath Prediction](#scanpath-prediction)
 - [Datasets](#datasets)
 
 
-# Preprints
+# Preprints ✅
 | **Year** | **Conference / Journal** | **Title**                                           | **Authors**          | **Links** |
 |:--------:|:--------------:|:----------------------------------------------------|:---------------------|:---------:|
 |   2023   |      arXiv      | Contrastive Language-Image Pretrained Models are Zero-Shot Human Scanpath Predictors | *Dario Zanca et al.*    | [📄 Paper](https://arxiv.org/abs/2305.12380) / [Dataset ✅](https://github.com/mad-lab-fau/CapMIT1003) / Code ❌
