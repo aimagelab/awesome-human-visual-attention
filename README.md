@@ -28,9 +28,10 @@ This repository contains a curated list of research papers and resources focusin
 - [How to contribute](#how-to-contribute)
 
 # Human Attention Modelling
+
 <details>
-    <summary><a href="#human-attention-modelling">Click me</summary>
-    
+    <summary><a href="#saliency-prediction">Saliency Prediction</summary>
+
 ## Saliency Prediction
 | **Year** | **Conference / Journal** | **Title** | **Authors** | **Links** |
 |:--------:|:--------------:|:----------------------------------------------------|:---------------------|:---------:|
@@ -42,6 +43,8 @@ This repository contains a curated list of research papers and resources focusin
 |   2018   |      IEEE Transactions on Image Processing      | Predicting Human Eye Fixations via an LSTM-based Saliency Attentive Model | *Marcella Cornia et al.*    | [📜 Paper](https://arxiv.org/pdf/1611.09571.pdf) / [Code :octocat:](https://github.com/marcellacornia/sam)
 |   2015   |      CVPR      | SALICON: Saliency in Context | *Ming Jiang et al.*    | [📜 Paper](https://www-users.cse.umn.edu/~qzhao/publications/pdf/salicon_cvpr15.pdf) / [Project Page](http://salicon.net/)
 
+</details>
+
 ## Scanpath Prediction
 | **Year** | **Conference / Journal** | **Title** | **Authors** | **Links** |
 |:--------:|:--------------:|:---------:|:-----------:|:---------:|
@@ -49,9 +52,6 @@ This repository contains a curated list of research papers and resources focusin
 |   2023   |      CVPR      | Gazeformer: Scalable, Effective and Fast Prediction of Goal-Directed Human Attention | *Sounak Mondal et al.*    | [📜 Paper](https://arxiv.org/abs/2303.15274) / [Code :octocat:](https://github.com/cvlab-stonybrook/Gazeformer/)
 |   2022   |      ECCV      | Target-absent Human Attention | *Zhibo Yang et al.*    | [📜 Paper](https://arxiv.org/abs/2207.01166) / [Code :octocat:](https://github.com/cvlab-stonybrook/Target-absent-Human-Attention)
 |   2021   |      CVPR      | Predicting Human Scanpaths in Visual Question Answering | *Xianyu Chen et al.*    | [📜 Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Predicting_Human_Scanpaths_in_Visual_Question_Answering_CVPR_2021_paper.pdf) / [Code :octocat:](https://github.com/chenxy99/Scanpaths)
-
-</details>
-
 
 # Integrating Human Attention in AI Models
 ## Image and Video Processing
