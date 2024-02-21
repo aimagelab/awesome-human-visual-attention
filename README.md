@@ -5,7 +5,21 @@ This repository contains a curated list of research papers and resources focusin
 ❗ Latest Update: 21 February 2024.
 ❗This repo is a work in progress. New updates coming soon, stay tuned!! :construction: :construction:
 
-# 📚 Table of Contents
+## Our Survey on Human Visual Attention
+
+🔥🔥 [*Trends, Applications, and Challenges in Human Attention Modelling*]() 🔥🔥\
+\
+**Authors:** 
+[**Giuseppe Cartella**](https://scholar.google.com/citations?hl=en&user=0sJ4VCcAAAAJ)
+[**Marcella Cornia**](https://scholar.google.com/citations?user=DzgmSJEAAAAJ&hl=it&oi=ao)
+[**Vittorio Cuculo**](https://scholar.google.com/citations?user=usEfqxoAAAAJ&hl=it&oi=ao)
+[**Alessandro D'Amelio**](https://scholar.google.com/citations?user=chkawtoAAAAJ&hl=it&oi=ao)
+[**Dario Zanca**](https://scholar.google.com/citations?user=KjwaSXkAAAAJ&hl=it&oi=ao)
+[**Giuseppe Boccignone**](https://scholar.google.com/citations?user=LqM0uJwAAAAJ&hl=it&oi=ao)
+[**Rita Cucchiara**](https://scholar.google.com/citations?user=OM3sZEoAAAAJ&hl=it&oi=ao)
+
+
+## 📚 Table of Contents
 - **Human Attention Modelling**
     - <details>
         <summary>Saliency Prediction</summary>
@@ -32,7 +46,7 @@ This repository contains a curated list of research papers and resources focusin
         |   2022   |      ECCV      | Target-absent Human Attention | *Zhibo Yang et al.*    | [📜 Paper](https://arxiv.org/abs/2207.01166) / [Code :octocat:](https://github.com/cvlab-stonybrook/Target-absent-Human-Attention)
         |   2021   |      CVPR      | Predicting Human Scanpaths in Visual Question Answering | *Xianyu Chen et al.*    | [📜 Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Predicting_Human_Scanpaths_in_Visual_Question_Answering_CVPR_2021_paper.pdf) / [Code :octocat:](https://github.com/chenxy99/Scanpaths)
     </details>
-
+---
 - **Integrating Human Attention in AI models**
     - ***Image and Video Processing***
         - <details>
@@ -49,7 +63,7 @@ This repository contains a curated list of research papers and resources focusin
             |:--------:|:--------------:|:---------:|:-----------:|:---------:|
             |   2017   | ACM Symposium on UIST (User Interface Software and Technology) | Learning Visual Importance for Graphic Designs and Data Visualizations |      Zoya Bylinskii       | [📜 Paper](https://arxiv.org/pdf/1708.02660.pdf) / [Code :octocat:](https://github.com/cvzoya/visimportance/tree/master?tab=readme-ov-file) 
         </details>
-        
+    
         - <details>
             <summary>Image Enhancement and Manipulation</summary>
         </details>
@@ -60,21 +74,22 @@ This repository contains a curated list of research papers and resources focusin
     - ***Vision-and-Language Applications***
         - Automatic Captioning
         - Visual Question Answering
-    - ***Language Modelling***
+    - **Language Modelling**
         - Machine Reading Comprehension
         - Natural Language Understanding
-    - ***Domain-Specific Applications***
+    - Domain-Specific Applications
         - Robotics
         - Autonomous Driving
         - Medicine
+- [How to contribute](#how-to-contribute)
 
 
 # How to Contribute
 
 1. Fork this repository and clone it locally.
-2. Create a new branch for your changes: `git checkout -b branch-name`.
+2. Create a new branch for your changes: `git checkout -b feature-name`.
 3. Make your changes and commit them: `git commit -m 'Description of the changes'`.
-4. Push to your fork: `git push origin branch-name`.
+4. Push to your fork: `git push origin feature-name`.
 5. Open a pull request on the original repository by providing a description of your changes.
 
 This project is in constant development, and we welcome contributions to include the latest research papers in the field or report issues 💥💥.
