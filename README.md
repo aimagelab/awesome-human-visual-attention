@@ -52,6 +52,9 @@ This repository contains a curated list of research papers and resources focusin
 |:--------:|:--------------:|:---------:|:-----------:|:---------:|
 |   2019   |      CVPR      | Shifting more attention to video salient object detection | *Deng-Ping Fan et al.*    | [📜 Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Fan_Shifting_More_Attention_to_Video_Salient_Object_Detection_CVPR_2019_paper.pdf) / [Code :octocat:](https://github.com/DengPingFan/DAVSOD)
 ### Graphic Design
+| **Year** | **Conference / Journal** | **Title** | **Authors** | **Links** |
+|:--------:|:--------------:|:---------:|:-----------:|:---------:|
+|   2017   | ACM Symposium on UIST (User Interface Software and Technology) | Learning Visual Importance for Graphic Designs and Data Visualizations |      Zoya Bylinskii       | [📜 Paper](https://arxiv.org/pdf/1708.02660.pdf)              |                                                      |
 ### Image Enhancement and Manipulation
 ### Image Quality Assessment
 ## Vision-and-Language Applications
