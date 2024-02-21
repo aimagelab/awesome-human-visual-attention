@@ -72,9 +72,9 @@ This repository contains a curated list of research papers and resources focusin
 # How to Contribute
 
 1. Fork this repository and clone it locally.
-2. Create a new branch for your changes: `git checkout -b feature-name`.
+2. Create a new branch for your changes: `git checkout -b branch-name`.
 3. Make your changes and commit them: `git commit -m 'Description of the changes'`.
-4. Push to your fork: `git push origin feature-name`.
+4. Push to your fork: `git push origin branch-name`.
 5. Open a pull request on the original repository by providing a description of your changes.
 
 This project is in constant development, and we welcome contributions to include the latest research papers in the field or report issues 💥💥.
