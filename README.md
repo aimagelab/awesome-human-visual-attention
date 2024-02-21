@@ -28,9 +28,8 @@ This repository contains a curated list of research papers and resources focusin
 - [How to contribute](#how-to-contribute)
 
 # Human Attention Modelling
-
 <details>
-    <summary><a href="#saliency-prediction">Saliency Prediction</summary>
+    <summary>Saliency Prediction</summary>
 
 ## Saliency Prediction
 | **Year** | **Conference / Journal** | **Title** | **Authors** | **Links** |
