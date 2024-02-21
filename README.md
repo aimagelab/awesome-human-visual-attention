@@ -12,19 +12,13 @@ This repository contains a curated list of research papers and resources focusin
         
         | **Year** | **Conference / Journal** | **Title** | **Authors** | **Links** |
         |:--------:|:--------------:|:----------------------------------------------------|:---------------------|:---------:|
-        |   2023   |      CVPR      | Learning from Unique Perspectives: User-aware Saliency Modeling | *Shi Chen et al.*    | [📜 Paper]
-        (https://openaccess.thecvf.com//content/CVPR2023/papers/Chen_Learning_From_Unique_Perspectives_User-Aware_Saliency_Modeling_CVPR_2023_paper.pdf) 
-        |   2023   |      CVPR      | TempSAL - Uncovering Temporal Information for Deep Saliency Prediction | *Bahar Aydemir et al.*    | [📜 Paper](https://arxiv.org/abs/2301.02315) / [Code :octocat:]
-        (https://github.com/IVRL/Tempsal)
+        |   2023   |      CVPR      | Learning from Unique Perspectives: User-aware Saliency Modeling | *Shi Chen et al.*    | [📜 Paper]        (https://openaccess.thecvf.com//content/CVPR2023/papers/Chen_Learning_From_Unique_Perspectives_User-Aware_Saliency_Modeling_CVPR_2023_paper.pdf) 
+        |   2023   |      CVPR      | TempSAL - Uncovering Temporal Information for Deep Saliency Prediction | *Bahar Aydemir et al.*    | [📜 Paper](https://arxiv.org/abs/2301.02315) / [Code :octocat:](https://github.com/IVRL/Tempsal)
         |   2023   |      BMVC      | Clustered Saliency Prediction | *Rezvan Sherkat et al.*    | [📜 Paper](https://arxiv.org/abs/2207.02205)
-        |   2023   |      NeurIPS      | What Do Deep Saliency Models Learn about Visual Attention? | *Shi Chen et al.*    | [📜 Paper](https://arxiv.org/abs/2310.09679) / [Code :octocat:]
-        (https://github.com/szzexpoi/saliency_analysis)
-        |   2023   |      NeurIPS      | What Do Deep Saliency Models Learn about Visual Attention? | *Shi Chen et al.*    | [📜 Paper](https://arxiv.org/abs/2310.09679) / [Code :octocat:]
-        (https://github.com/szzexpoi/saliency_analysis)
-        |   2018   |      IEEE Transactions on Image Processing      | Predicting Human Eye Fixations via an LSTM-based Saliency Attentive Model | *Marcella Cornia et al.*    | [📜 Paper]
-        (https://arxiv.org/pdf/1611.09571.pdf) / [Code :octocat:](https://github.com/marcellacornia/sam)
-        |   2015   |      CVPR      | SALICON: Saliency in Context | *Ming Jiang et al.*    | [📜 Paper](https://www-users.cse.umn.edu/~qzhao/publications/pdf/salicon_cvpr15.pdf) / [Project Page]
-        (http://salicon.net/)
+        |   2023   |      NeurIPS      | What Do Deep Saliency Models Learn about Visual Attention? | *Shi Chen et al.*    | [📜 Paper](https://arxiv.org/abs/2310.09679) / [Code :octocat:](https://github.com/szzexpoi/saliency_analysis)
+        |   2023   |      NeurIPS      | What Do Deep Saliency Models Learn about Visual Attention? | *Shi Chen et al.*    | [📜 Paper](https://arxiv.org/abs/2310.09679) / [Code :octocat:]        (https://github.com/szzexpoi/saliency_analysis)
+        |   2018   |      IEEE Transactions on Image Processing      | Predicting Human Eye Fixations via an LSTM-based Saliency Attentive Model | *Marcella Cornia et al.*    | [📜 Paper](https://arxiv.org/pdf/1611.09571.pdf) / [Code :octocat:](https://github.com/marcellacornia/sam)
+        |   2015   |      CVPR      | SALICON: Saliency in Context | *Ming Jiang et al.*    | [📜 Paper](https://www-users.cse.umn.edu/~qzhao/publications/pdf/salicon_cvpr15.pdf) / [Project Page]        (http://salicon.net/)
     </details>
     
     - <details>
