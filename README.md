@@ -34,7 +34,7 @@ This repository contains a curated list of research papers and resources focusin
     </details>
 
 - **Integrating Human Attention in AI models**
-    - **Image and Video Processing**
+    - ***Image and Video Processing***
         - <details>
             <summary>Visual Recognition</summary>
             
@@ -57,13 +57,13 @@ This repository contains a curated list of research papers and resources focusin
         - <details>
             <summary>Image Quality Assessment</summary>
         </details>
-    - **Vision-and-Language Applications**
+    - ***Vision-and-Language Applications***
         - Automatic Captioning
         - Visual Question Answering
-    - <pre><span color="red">Language Modelling</span></pre>
+    - ***Language Modelling***
         - Machine Reading Comprehension
         - Natural Language Understanding
-    - Domain-Specific Applications
+    - ***Domain-Specific Applications***
         - Robotics
         - Autonomous Driving
         - Medicine
