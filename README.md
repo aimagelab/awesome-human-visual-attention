@@ -2,7 +2,8 @@
 This repository contains a curated list of research papers and resources focusing on saliency and scanpath prediction, human attention, human visual search.
 
 
-❗ Latest Update: 22 November 2023. Work in progress, new updates coming soon !!! :construction: :construction:
+❗ Latest Update: 21 February 2024.
+❗This repo is a work in progress. New updates coming soon, stay tuned!! :construction: :construction:
 
 ## 📚 Table of Contents
 - [Human Attention Modelling](#human-attention-modelling)
