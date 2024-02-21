@@ -5,7 +5,7 @@ This repository contains a curated list of research papers and resources focusin
 ❗ Latest Update: 21 February 2024.
 ❗This repo is a work in progress. New updates coming soon, stay tuned!! :construction: :construction:
 
-## 📚 Table of Contents
+# 📚 Table of Contents
 - **Human Attention Modelling**
     - <details>
         <summary>Saliency Prediction</summary>
