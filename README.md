@@ -8,7 +8,7 @@ This repository contains a curated list of research papers and resources focusin
 ## 📚 Table of Contents
 - [Human Attention Modelling](#human-attention-modelling)
     - <details>
-        <summary>Saliency prediction</summary>
+        <summary>🔍 [Saliency Prediction](#saliency-prediction)</summary>
         
         | **Year** | **Conference / Journal** | **Title** | **Authors** | **Links** |
         |:--------:|:--------------:|:----------------------------------------------------|:---------------------|:---------:|
