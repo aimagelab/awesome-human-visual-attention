@@ -29,7 +29,7 @@ This repository contains a curated list of research papers and resources focusin
 
 # Human Attention Modelling
 <details>
-    <summary>Click me</summary>
+    <summary><a href="#human-attention-modelling">Click me</summary>
     
 ## Saliency Prediction
 | **Year** | **Conference / Journal** | **Title** | **Authors** | **Links** |
