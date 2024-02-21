@@ -5,9 +5,9 @@ This repository contains a curated list of research papers and resources focusin
 ❗ Latest Update: 22 November 2023. Work in progress, new updates coming soon !!! :construction: :construction:
 
 ## 📚 Table of Contents
-- [Human Attention Modelling](#humanattentionmodelling)
-    - [Saliency Prediction](#saliencyprediction)
-    - [Scanpath Prediction](#scanpathprediction)
+- [Human Attention Modelling](#human-attention-modelling)
+    - [Saliency Prediction](#saliency-prediction)
+    - [Scanpath Prediction](#scanpath-prediction)
 - [Integrating Human Attention in AI models](#humanattentioninaimodels)
     - [Image and Video Processing](#imageandvideoprocessing)
         - [Visual Recognition](#graphicdesign)
