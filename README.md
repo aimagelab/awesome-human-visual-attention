@@ -2,7 +2,7 @@
 This repository contains a curated list of research papers and resources focusing on saliency and scanpath prediction, human attention, human visual search.
 
 
-❗ Latest Update: 22 November 2023. Work in progress, new updates coming soon !!! :construction: :construction:
+❗ Latest Update: 22 November 2023. Work in progress, new updates coming soon !!! :construction: :construction: :github:
 
 ## 📚 Table of Contents
 - [Human Attention Modelling](#human-attention-modelling)
@@ -21,7 +21,7 @@ This repository contains a curated list of research papers and resources focusin
 | **Year** | **Conference / Journal** | **Title** | **Authors** | **Links** |
 |:--------:|:--------------:|:----------------------------------------------------|:---------------------|:---------:|
 |   2023   |      CVPR      | Learning from Unique Perspectives: User-aware Saliency Modeling | *Shi Chen et al.*    | [📜 Paper](https://openaccess.thecvf.com//content/CVPR2023/papers/Chen_Learning_From_Unique_Perspectives_User-Aware_Saliency_Modeling_CVPR_2023_paper.pdf) 
-|   2023   |      CVPR      | TempSAL - Uncovering Temporal Information for Deep Saliency Prediction | *Bahar Aydemir et al.*    | [📄 Paper](https://arxiv.org/abs/2301.02315) / [Code :github-logo:](https://github.com/IVRL/Tempsal)
+|   2023   |      CVPR      | TempSAL - Uncovering Temporal Information for Deep Saliency Prediction | *Bahar Aydemir et al.*    | [📄 Paper](https://arxiv.org/abs/2301.02315) / [Code](https://github.com/IVRL/Tempsal)
 |   2023   |      BMVC      | Clustered Saliency Prediction | *Rezvan Sherkat et al.*    | [📄 Paper](https://arxiv.org/abs/2207.02205)
 |   2023   |      NeurIPS      | What Do Deep Saliency Models Learn about Visual Attention? | *Shi Chen et al.*    | [📄 Paper](https://arxiv.org/abs/2310.09679) / [Code ✅](https://github.com/szzexpoi/saliency_analysis)
 |   2023   |      NeurIPS      | What Do Deep Saliency Models Learn about Visual Attention? | *Shi Chen et al.*    | [📄 Paper](https://arxiv.org/abs/2310.09679) / [Code ✅](https://github.com/szzexpoi/saliency_analysis)
