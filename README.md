@@ -27,6 +27,7 @@ This repository contains a curated list of research papers and resources focusin
         - [Medicine](#medicine)
 - <span style="color:red">[How to contribute](#how-to-contribute)</span>
 
+<details>
 # Human Attention Modelling
 ## Saliency Prediction
 | **Year** | **Conference / Journal** | **Title** | **Authors** | **Links** |
@@ -39,6 +40,7 @@ This repository contains a curated list of research papers and resources focusin
 |   2018   |      IEEE Transactions on Image Processing      | Predicting Human Eye Fixations via an LSTM-based Saliency Attentive Model | *Marcella Cornia et al.*    | [📜 Paper](https://arxiv.org/pdf/1611.09571.pdf) / [Code :octocat:](https://github.com/marcellacornia/sam)
 |   2015   |      CVPR      | SALICON: Saliency in Context | *Ming Jiang et al.*    | [📜 Paper](https://www-users.cse.umn.edu/~qzhao/publications/pdf/salicon_cvpr15.pdf) / [Project Page](http://salicon.net/)
 
+</details>
 ## Scanpath Prediction
 | **Year** | **Conference / Journal** | **Title** | **Authors** | **Links** |
 |:--------:|:--------------:|:---------:|:-----------:|:---------:|
