@@ -30,7 +30,8 @@ This repository contains a curated list of research papers and resources focusin
 # Human Attention Modelling
 <details>
     <summary>Click me</summary>
-    ## Saliency Prediction
+    
+## Saliency Prediction
 | **Year** | **Conference / Journal** | **Title** | **Authors** | **Links** |
 |:--------:|:--------------:|:----------------------------------------------------|:---------------------|:---------:|
 |   2023   |      CVPR      | Learning from Unique Perspectives: User-aware Saliency Modeling | *Shi Chen et al.*    | [📜 Paper](https://openaccess.thecvf.com//content/CVPR2023/papers/Chen_Learning_From_Unique_Perspectives_User-Aware_Saliency_Modeling_CVPR_2023_paper.pdf) 
