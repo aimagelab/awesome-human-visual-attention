@@ -5,18 +5,29 @@ This repository contains a curated list of research papers and resources focusin
 ❗ Latest Update: 22 November 2023. Work in progress, new updates coming soon !!! :construction: :construction:
 
 ## 📚 Table of Contents
-- [Preprints](#preprints)
+- [Human Attention Modelling](#humanattentionmodelling)
+    - [Saliency Prediction](#saliencyprediction)
+    - [Scanpath Prediction](#scanpathprediction)
+- [Integrating Human Attention in AI models](#humanattentioninaimodels)
+    - [Image and Video Processing](#imageandvideoprocessing)
+        - [Visual Recognition](#graphicdesign)
+        - [Graphic Design](graphicdesign)
+    - [Vision-and-Language Applications](#visionandlanguage)
+    - [Language Modelling](#languagemodelling)
+    - [Domain-Specific Applications](#domainspecific)
 - [Published Papers](#published-papers)
   - [Saliency Prediction](#saliency-prediction)
   - [Scanpath Prediction](#scanpath-prediction)
 - [Datasets](#datasets)
 
+# Human Attention Modelling
+## Saliency Prediction
 
-# Preprints ✅
+# Preprints
 | **Year** | **Conference / Journal** | **Title**                                           | **Authors**          | **Links** |
 |:--------:|:--------------:|:----------------------------------------------------|:---------------------|:---------:|
-|   2023   |      arXiv      | Contrastive Language-Image Pretrained Models are Zero-Shot Human Scanpath Predictors | *Dario Zanca et al.*    | [📄 Paper](https://arxiv.org/abs/2305.12380) / [Dataset ✅](https://github.com/mad-lab-fau/CapMIT1003) / Code ❌
-|   2023   |      arXiv      | Predicting Human Attention using Computational Attention | Zhibo Yang et al.*    | [📄 Paper](https://arxiv.org/abs/2303.09383) / Code ❌
+|   2023   |      arXiv      | Contrastive Language-Image Pretrained Models are Zero-Shot Human Scanpath Predictors | *Dario Zanca et al.*    | [📄 Paper](https://arxiv.org/abs/2305.12380) / [Dataset ✅](https://github.com/mad-lab-fau/CapMIT1003) / 
+|   2023   |      arXiv      | Predicting Human Attention using Computational Attention | Zhibo Yang et al.*    | [📄 Paper](https://arxiv.org/abs/2303.09383)
 
 # Published Papers
 ## Saliency Prediction
