@@ -60,7 +60,7 @@ This repository contains a curated list of research papers and resources focusin
     - **Vision-and-Language Applications**
         - [Automatic Captioning](#automatic-captioning)
         - [Visual Question Answering](#visual-question-answering)
-    - <span style="color:blue">**Language Modelling**</span>
+    - <font color="blue">**Language Modelling**</font>
         - [Machine Reading Comprehension](#machine-reading-comprehension)
         - [Natural Language Understanding](#natural-language-understanding)
     - [Domain-Specific Applications](#domain-specific-applications)
