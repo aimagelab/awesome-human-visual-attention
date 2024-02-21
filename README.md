@@ -27,10 +27,10 @@ This repository contains a curated list of research papers and resources focusin
         - [Medicine](#medicine)
 - [How to contribute](#how-to-contribute)
 
-<details>
-    <summary>Human Attention Modelling</summary>
 # Human Attention Modelling
-## Saliency Prediction
+<details>
+    <summary>Click me</summary>
+    ## Saliency Prediction
 | **Year** | **Conference / Journal** | **Title** | **Authors** | **Links** |
 |:--------:|:--------------:|:----------------------------------------------------|:---------------------|:---------:|
 |   2023   |      CVPR      | Learning from Unique Perspectives: User-aware Saliency Modeling | *Shi Chen et al.*    | [📜 Paper](https://openaccess.thecvf.com//content/CVPR2023/papers/Chen_Learning_From_Unique_Perspectives_User-Aware_Saliency_Modeling_CVPR_2023_paper.pdf) 
@@ -49,8 +49,8 @@ This repository contains a curated list of research papers and resources focusin
 |   2022   |      ECCV      | Target-absent Human Attention | *Zhibo Yang et al.*    | [📜 Paper](https://arxiv.org/abs/2207.01166) / [Code :octocat:](https://github.com/cvlab-stonybrook/Target-absent-Human-Attention)
 |   2021   |      CVPR      | Predicting Human Scanpaths in Visual Question Answering | *Xianyu Chen et al.*    | [📜 Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Predicting_Human_Scanpaths_in_Visual_Question_Answering_CVPR_2021_paper.pdf) / [Code :octocat:](https://github.com/chenxy99/Scanpaths)
 
-
 </details>
+
 
 # Integrating Human Attention in AI Models
 ## Image and Video Processing
