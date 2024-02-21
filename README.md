@@ -46,7 +46,7 @@ This repository contains a curated list of research papers and resources focusin
         |   2022   |      ECCV      | Target-absent Human Attention | *Zhibo Yang et al.*    | [📜 Paper](https://arxiv.org/abs/2207.01166) / [Code :octocat:](https://github.com/cvlab-stonybrook/Target-absent-Human-Attention)
         |   2021   |      CVPR      | Predicting Human Scanpaths in Visual Question Answering | *Xianyu Chen et al.*    | [📜 Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Predicting_Human_Scanpaths_in_Visual_Question_Answering_CVPR_2021_paper.pdf) / [Code :octocat:](https://github.com/chenxy99/Scanpaths)
     </details>
----
+
 - **Integrating Human Attention in AI models**
     - ***Image and Video Processing***
         - <details>
