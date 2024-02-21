@@ -49,10 +49,15 @@ This repository contains a curated list of research papers and resources focusin
 ## Image and Video Processing
 ### Visual Recognition
 ### Graphic Design
-
-
-
-
-
-
-
+### Image Enhancement and Manipulation
+### Image Quality Assessment
+## Vision-and-Language Applications
+### Automatic Captioning
+### Visual Question Answering
+## Language Modelling
+### Machine Reading Comprehension
+### Natural Language Understanding
+## Domain-Specific Applications
+### Robotics
+### Autonomous Driving
+### Medicine
