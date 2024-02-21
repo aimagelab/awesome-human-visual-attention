@@ -8,7 +8,7 @@ This repository contains a curated list of research papers and resources focusin
 - [Human Attention Modelling](#human-attention-modelling)
     - [Saliency Prediction](#saliency-prediction)
     - [Scanpath Prediction](#scanpath-prediction)
-- [Integrating Human Attention in AI models](#human-attention-in-ai-models)
+- [Integrating Human Attention in AI models](#integrating-human-attention-in-ai-models)
     - [Image and Video Processing](#image-and-videoprocessing)
         - [Visual Recognition](#visual-recognition)
         - [Graphic Design](#graphic-design)
