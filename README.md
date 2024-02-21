@@ -79,18 +79,20 @@ This repository contains a curated list of research papers and resources focusin
             <summary>Visual Question Answering</summary>
         </details>
     - **Language Modelling**
-          - <details>
-                <summary>Machine Reading Comprehension</summary>
-          </details>
-      - <details>
-            <summary>Natural Language Understanding</summary>
-      </details>
-    - **Domain-Specific Applications**
-      - <details>
-            <summary>Image Enhancement and Manipulation</summary>
+        - <details>
+            <summary>Machine Reading Comprehension</summary>
         </details>
-        - Autonomous Driving
-        - Medicine
+        - <details>Natural Language Understanding</details>
+    - **Domain-Specific Applications**
+        - <details>
+            <summary>Robotics</summary>
+        </details>
+        - <details>
+            <summary>Autonomous Driving</summary>
+        </details>
+        - <details>
+            <summary>Medicine</summary>
+        </details>
 
 
 
