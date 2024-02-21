@@ -102,7 +102,7 @@ This repository contains a curated list of research papers and resources focusin
 
 
 
-# How to Contribute
+# How to Contribute 🚀
 
 1. Fork this repository and clone it locally.
 2. Create a new branch for your changes: `git checkout -b feature-name`.
