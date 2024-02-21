@@ -54,7 +54,7 @@ This repository contains a curated list of research papers and resources focusin
 ### Graphic Design
 | **Year** | **Conference / Journal** | **Title** | **Authors** | **Links** |
 |:--------:|:--------------:|:---------:|:-----------:|:---------:|
-|   2017   | ACM Symposium on UIST (User Interface Software and Technology) | Learning Visual Importance for Graphic Designs and Data Visualizations |      Zoya Bylinskii       | [📜 Paper](https://arxiv.org/pdf/1708.02660.pdf)              |                                                      |
+|   2017   | ACM Symposium on UIST (User Interface Software and Technology) | Learning Visual Importance for Graphic Designs and Data Visualizations |      Zoya Bylinskii       | [📜 Paper](https://arxiv.org/pdf/1708.02660.pdf) / [Code :octocat:](https://github.com/cvzoya/visimportance/tree/master?tab=readme-ov-file) |                                                    |
 ### Image Enhancement and Manipulation
 ### Image Quality Assessment
 ## Vision-and-Language Applications
