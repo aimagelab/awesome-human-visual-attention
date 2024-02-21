@@ -23,7 +23,7 @@ This repository contains a curated list of research papers and resources focusin
     </details>
     
     - <details>
-        <summary>## Scanpath Prediction</summary>
+        <summary>Scanpath Prediction</summary>
     
         | **Year** | **Conference / Journal** | **Title** | **Authors** | **Links** |
         |:--------:|:--------------:|:---------:|:-----------:|:---------:|
@@ -44,9 +44,10 @@ This repository contains a curated list of research papers and resources focusin
                     </details>
         - <details>
             <summary>Graphic Design</summary>
-        | **Year** | **Conference / Journal** | **Title** | **Authors** | **Links** |
-        |:--------:|:--------------:|:---------:|:-----------:|:---------:|
-        |   2017   | ACM Symposium on UIST (User Interface Software and Technology) | Learning Visual Importance for Graphic Designs and Data Visualizations |      Zoya Bylinskii       | [📜 Paper](https://arxiv.org/pdf/1708.02660.pdf) / [Code :octocat:](https://github.com/cvzoya/visimportance/tree/master?tab=readme-ov-file) |                                                    |
+            
+            | **Year** | **Conference / Journal** | **Title** | **Authors** | **Links** |
+            |:--------:|:--------------:|:---------:|:-----------:|:---------:|
+            |   2017   | ACM Symposium on UIST (User Interface Software and Technology) | Learning Visual Importance for Graphic Designs and Data Visualizations |      Zoya Bylinskii       | [📜 Paper](https://arxiv.org/pdf/1708.02660.pdf) / [Code :octocat:](https://github.com/cvzoya/visimportance/tree/master?tab=readme-ov-file) 
         </details>
         - **Graphic Design**
         - **Image Enhancement and Manipulation**
