@@ -26,6 +26,7 @@ This repository contains a curated list of research papers and resources focusin
         |   2015   |      CVPR      | SALICON: Saliency in Context | *Ming Jiang et al.*    | [📜 Paper](https://www-users.cse.umn.edu/~qzhao/publications/pdf/salicon_cvpr15.pdf) / [Project Page]
         (http://salicon.net/)
     </details>
+    
     - <details>
         <summary>Scanpath Prediction</summary>
     
@@ -37,7 +38,6 @@ This repository contains a curated list of research papers and resources focusin
         |   2021   |      CVPR      | Predicting Human Scanpaths in Visual Question Answering | *Xianyu Chen et al.*    | [📜 Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Predicting_Human_Scanpaths_in_Visual_Question_Answering_CVPR_2021_paper.pdf) / [Code :octocat:](https://github.com/chenxy99/Scanpaths)
 
     </details>
-- [Scanpath Prediction](#scanpath-prediction)
 - [Integrating Human Attention in AI models](#integrating-human-attention-in-ai-models)
     - [Image and Video Processing](#image-and-videoprocessing)
         - [Visual Recognition](#visual-recognition)
