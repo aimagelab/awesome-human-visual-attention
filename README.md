@@ -5,6 +5,16 @@ This repository contains a curated list of research papers and resources focusin
 ❗ Latest Update: 21 February 2024.
 ❗This repo is a work in progress. New updates coming soon, stay tuned!! :construction: :construction:
 
+### How to Contribute
+
+1. Fork this repository and clone it locally.
+2. Create a new branch for your changes: `git checkout -b feature-name`.
+3. Make your changes and commit them: `git commit -m 'Description of the changes'`.
+4. Push to your fork: `git push origin feature-name`.
+5. Open a pull request on the original repository by providing a description of your changes.
+
+This project is in constant development, and we welcome contributions to include the latest research papers in the field or report issues 💥💥.
+
 ## 📚 Table of Contents
 - [Human Attention Modelling](#human-attention-modelling)
     - [Saliency Prediction](#saliency-prediction)
@@ -25,6 +35,7 @@ This repository contains a curated list of research papers and resources focusin
         - [Robotics](#robotics)
         - [Autonomous Driving](#autonomous-driving)
         - [Medicine](#medicine)
+- [How to contribute](#how-to-contribute)
 
 # Human Attention Modelling
 ## Saliency Prediction
@@ -68,3 +79,13 @@ This repository contains a curated list of research papers and resources focusin
 ### Robotics
 ### Autonomous Driving
 ### Medicine
+
+### How to Contribute
+
+1. Fork this repository and clone it locally.
+2. Create a new branch for your changes: `git checkout -b feature-name`.
+3. Make your changes and commit them: `git commit -m 'Description of the changes'`.
+4. Push to your fork: `git push origin feature-name`.
+5. Open a pull request on the original repository by providing a description of your changes.
+
+This project is in constant development, and we welcome contributions to include the latest research papers in the field or report issues 💥💥.
