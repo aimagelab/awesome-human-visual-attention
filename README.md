@@ -72,13 +72,23 @@ This repository contains a curated list of research papers and resources focusin
             <summary>Image Quality Assessment</summary>
         </details>
     - ***Vision-and-Language Applications***
-        - Automatic Captioning
-        - Visual Question Answering
+        - <details>
+            <summary>Automatic Captioning</summary>
+        </details>
+        - <details>
+            <summary>Visual Question Answering</summary>
+        </details>
     - **Language Modelling**
-        - Machine Reading Comprehension
-        - Natural Language Understanding
-    - Domain-Specific Applications
-        - Robotics
+          - <details>
+                <summary>Machine Reading Comprehension</summary>
+          </details>
+      - <details>
+            <summary>Natural Language Understanding</summary>
+      </details>
+    - **Domain-Specific Applications**
+      - <details>
+            <summary>Image Enhancement and Manipulation</summary>
+        </details>
         - Autonomous Driving
         - Medicine
 
