@@ -75,6 +75,7 @@ This repository contains a curated list of research papers and resources focusin
         - <details>
             <summary>Automatic Captioning</summary>
         </details>
+        
         - <details>
             <summary>Visual Question Answering</summary>
         </details>
@@ -82,14 +83,19 @@ This repository contains a curated list of research papers and resources focusin
         - <details>
             <summary>Machine Reading Comprehension</summary>
         </details>
-        - <details>Natural Language Understanding</details>
+        
+        - <details>
+            <summary>Natural Language Understanding</summary>
+        </details>
     - **Domain-Specific Applications**
         - <details>
             <summary>Robotics</summary>
         </details>
+        
         - <details>
             <summary>Autonomous Driving</summary>
         </details>
+        
         - <details>
             <summary>Medicine</summary>
         </details>
