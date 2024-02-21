@@ -81,7 +81,7 @@ This repository contains a curated list of research papers and resources focusin
         - Robotics
         - Autonomous Driving
         - Medicine
-- [How to contribute](#how-to-contribute)
+
 
 
 # How to Contribute
