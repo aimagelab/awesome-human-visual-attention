@@ -50,7 +50,7 @@ This repository contains a curated list of research papers and resources focusin
 ### Visual Recognition
 | **Year** | **Conference / Journal** | **Title** | **Authors** | **Links** |
 |:--------:|:--------------:|:---------:|:-----------:|:---------:|
-|   2019   |      CVPR      | Shifting more attention to video salient object detection | *Dario Zanca et al.*    | [📜 Paper] (https://openaccess.thecvf.com/content_CVPR_2019/papers/Fan_Shifting_More_Attention_to_Video_Salient_Object_Detection_CVPR_2019_paper.pdf) / [Code :octocat:](https://github.com/DengPingFan/DAVSOD)
+|   2019   |      CVPR      | Shifting more attention to video salient object detection | *Deng-Ping Fan et al.*    | [📜 Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Fan_Shifting_More_Attention_to_Video_Salient_Object_Detection_CVPR_2019_paper.pdf) / [Code :octocat:](https://github.com/DengPingFan/DAVSOD)
 ### Graphic Design
 ### Image Enhancement and Manipulation
 ### Image Quality Assessment
