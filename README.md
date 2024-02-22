@@ -62,12 +62,12 @@ This repository contains a curated list of research papers and resources focusin
             | **Year** | **Conference / Journal** | **Title** | **Authors** | **Links** |
             |:--------:|:--------------:|:---------:|:-----------:|:---------:|
             |    2023  |    IJCV    |    Joint Learning of Visual-Audio Saliency Prediction and Sound Source Localization on Multi-face Videos    | *Minglang Qiao et al.*    | [📜 Paper](https://link.springer.com/article/10.1007/s11263-023-01950-3) / [Code :octocat:](https://github.com/MinglangQiao/MVVA-Database?tab=readme-ov-file)
-          |    2022  |    ECML PKDD    |    Foveated Neural Computation    | *Matteo Tiezzi et al.*    | [📜 Paper](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_620.pdf) / [Code :octocat:](https://github.com/sailab-code/foveated_neural_computation)
+            |    2022  |    ECML PKDD    |    Foveated Neural Computation    | *Matteo Tiezzi et al.*    | [📜 Paper](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_620.pdf) / [Code :octocat:](https://github.com/sailab-code/foveated_neural_computation)
             |    2021  |    WACV    |    Integrating Human Gaze into Attention for Egocentric Activity Recognition    | *Kyle Min et al.*    | [📜 Paper](https://openaccess.thecvf.com/content/WACV2021/papers/Min_Integrating_Human_Gaze_Into_Attention_for_Egocentric_Activity_Recognition_WACV_2021_paper.pdf) / [Code :octocat:](https://github.com/MichiganCOG/Gaze-Attention)
-
             |   2019   |      CVPR      | Learning Unsupervised Video Object Segmentation through Visual Attention | *Wenguan Wang et al.*    | [📜 Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Learning_Unsupervised_Video_Object_Segmentation_Through_Visual_Attention_CVPR_2019_paper.pdf) / [Code :octocat:](https://github.com/wenguanwang/AGS)
             |   2019   |      CVPR      | Shifting more attention to video salient object detection | *Deng-Ping Fan et al.*    | [📜 Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Fan_Shifting_More_Attention_to_Video_Salient_Object_Detection_CVPR_2019_paper.pdf) / [Code :octocat:](https://github.com/DengPingFan/DAVSOD)
           </details>
+          
         - <details>
             <summary>Graphic Design</summary>
             
