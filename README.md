@@ -73,7 +73,9 @@ This repository contains a curated list of research papers and resources focusin
             
             | **Year** | **Conference / Journal** | **Title** | **Authors** | **Links** |
             |:--------:|:--------------:|:---------:|:-----------:|:---------:|
-            |   2017   | ACM Symposium on UIST (User Interface Software and Technology) | Learning Visual Importance for Graphic Designs and Data Visualizations |      Zoya Bylinskii       | [📜 Paper](https://arxiv.org/pdf/1708.02660.pdf) / [Code :octocat:](https://github.com/cvzoya/visimportance/tree/master?tab=readme-ov-file) 
+            |   2020   | ACM Symposium on UIST (User Interface Software and Technology) | Predicting Visual Importance Across Graphic Design Types |      *Camilo Fosco et al.*       | [📜 Paper](https://arxiv.org/pdf/2008.02912.pdf) / [Code :octocat:](https://github.com/diviz-mit/predimportance-public)
+            |   2020   | ACM MobileHCI | Understanding Visual Saliency in Mobile User Interfaces |      *Luis A. Leiva et al.*       | [📜 Paper](https://arxiv.org/pdf/2101.09176.pdf)
+            |   2017   | ACM Symposium on UIST (User Interface Software and Technology) | Learning Visual Importance for Graphic Designs and Data Visualizations |      *Zoya Bylinskii et al.*       | [📜 Paper](https://arxiv.org/pdf/1708.02660.pdf) / [Code :octocat:](https://github.com/cvzoya/visimportance)
         </details>
     
         - <details>
