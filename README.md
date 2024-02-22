@@ -22,7 +22,7 @@ This repository contains a curated list of research papers and resources focusin
     <img src="figure.jpg" style="max-width:500px">
 </p>
 
-## 📚 Table of Contents
+# 📚 Table of Contents
 - **Human Attention Modelling**
     - <details>
         <summary>Saliency Prediction</summary>
