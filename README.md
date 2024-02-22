@@ -5,7 +5,7 @@ This repository contains a curated list of research papers and resources focusin
 ❗ Latest Update: 21 February 2024.
 ❗This repo is a work in progress. New updates coming soon, stay tuned!! :construction: :construction:
 
-## Our Survey on Human Visual Attention
+## Our Survey on Human Visual Attention 👀
 
 🔥🔥 [*Trends, Applications, and Challenges in Human Attention Modelling*]() 🔥🔥\
 \
@@ -45,9 +45,9 @@ This repository contains a curated list of research papers and resources focusin
     
         | **Year** | **Conference / Journal** | **Title** | **Authors** | **Links** |
         |:--------:|:--------------:|:---------:|:-----------:|:---------:|
-        |   2023   |      arXiv      | Contrastive Language-Image Pretrained Models are Zero-Shot Human Scanpath Predictors | *Dario Zanca et al.*    | [📜 Paper](https://arxiv.org/abs/2305.12380) / [Code + Dataset :octocat:](https://github.com/mad-lab-fau/CapMIT1003)
-        |   2023   |      CVPR      | Gazeformer: Scalable, Effective and Fast Prediction of Goal-Directed Human Attention | *Sounak Mondal et al.*    | [📜 Paper](https://arxiv.org/abs/2303.15274) / [Code :octocat:](https://github.com/cvlab-stonybrook/Gazeformer/)
-        |   2022   |      ECCV      | Target-absent Human Attention | *Zhibo Yang et al.*    | [📜 Paper](https://arxiv.org/abs/2207.01166) / [Code :octocat:](https://github.com/cvlab-stonybrook/Target-absent-Human-Attention)
+        |   2023   |      arXiv      | Contrastive Language-Image Pretrained Models are Zero-Shot Human Scanpath Predictors | *Dario Zanca et al.*    | [📜 Paper](https://arxiv.org/pdf/2305.12380.pdf) / [Code + Dataset :octocat:](https://github.com/mad-lab-fau/CapMIT1003)
+        |   2023   |      CVPR      | Gazeformer: Scalable, Effective and Fast Prediction of Goal-Directed Human Attention | *Sounak Mondal et al.*    | [📜 Paper](https://arxiv.org/pdf/2303.15274.pdf) / [Code :octocat:](https://github.com/cvlab-stonybrook/Gazeformer/)
+        |   2022   |      ECCV      | Target-absent Human Attention | *Zhibo Yang et al.*    | [📜 Paper](https://arxiv.org/pdf/2207.01166.pdf) / [Code :octocat:](https://github.com/cvlab-stonybrook/Target-absent-Human-Attention)
         |   2022   |      Journal of Vision      | DeepGaze III: Modeling free-viewing human scanpaths with deep learning | *Matthias Kümmerer et al.*    | [📜 Paper](https://jov.arvojournals.org/article.aspx?articleid=2778776) / [Code :octocat:](https://github.com/matthias-k/DeepGaze)
         |   2021   |      CVPR      | Predicting Human Scanpaths in Visual Question Answering | *Xianyu Chen et al.*    | [📜 Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Predicting_Human_Scanpaths_in_Visual_Question_Answering_CVPR_2021_paper.pdf) / [Code :octocat:](https://github.com/chenxy99/Scanpaths)
         |   2019   |      TPAMI      | Gravitational Laws of Focus of Attention | *Dario Zanca et al.*    | [📜 Paper](https://ieeexplore.ieee.org/abstract/document/8730418) / [Code :octocat:](https://github.com/dariozanca/G-Eymol)
