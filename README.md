@@ -18,6 +18,9 @@ This repository contains a curated list of research papers and resources focusin
 [**Giuseppe Boccignone**](https://scholar.google.com/citations?user=LqM0uJwAAAAJ&hl=it&oi=ao)
 [**Rita Cucchiara**](https://scholar.google.com/citations?user=OM3sZEoAAAAJ&hl=it&oi=ao)
 
+<p align="center">
+    <img src="main_figure.pdf" style="max-width:500px">
+</p>
 
 ## 📚 Table of Contents
 - **Human Attention Modelling**
