@@ -30,10 +30,11 @@ This repository contains a curated list of research papers and resources focusin
         |   2023   |      CVPR      | TempSAL - Uncovering Temporal Information for Deep Saliency Prediction | *Bahar Aydemir et al.*    | [📜 Paper](https://arxiv.org/abs/2301.02315) / [Code :octocat:](https://github.com/IVRL/Tempsal)
         |   2023   |      BMVC      | Clustered Saliency Prediction | *Rezvan Sherkat et al.*    | [📜 Paper](https://arxiv.org/abs/2207.02205)
         |   2023   |      NeurIPS      | What Do Deep Saliency Models Learn about Visual Attention? | *Shi Chen et al.*    | [📜 Paper](https://arxiv.org/abs/2310.09679) / [Code :octocat:](https://github.com/szzexpoi/saliency_analysis)
-        |   2023   |      NeurIPS      | What Do Deep Saliency Models Learn about Visual Attention? | *Shi Chen et al.*    | [📜 Paper](https://arxiv.org/abs/2310.09679) / [Code :octocat:](https://github.com/szzexpoi/saliency_analysis)
-        |   2018   |      IEEE Transactions on Image Processing      | Predicting Human Eye Fixations via an LSTM-based Saliency Attentive Model | *Marcella Cornia et al.*    | [📜 Paper](https://arxiv.org/pdf/1611.09571.pdf) / [Code :octocat:](https://github.com/marcellacornia/sam)
+        |   2022   |      Neurocomputing      | TranSalNet: Towards perceptually relevant visual saliency prediction | *Jianxun Lou et al.*    | [📜 Paper](https://www.sciencedirect.com/science/article/pii/S0925231222004714?via%3Dihub) / [Code :octocat:](https://github.com/LJOVO/TranSalNet?tab=readme-ov-file)
+      |   2018   |      IEEE Transactions on Image Processing      | Predicting Human Eye Fixations via an LSTM-based Saliency Attentive Model | *Marcella Cornia et al.*    | [📜 Paper](https://arxiv.org/pdf/1611.09571.pdf) / [Code :octocat:](https://github.com/marcellacornia/sam)
         |   2015   |      CVPR      | SALICON: Saliency in Context | *Ming Jiang et al.*    | [📜 Paper](https://www-users.cse.umn.edu/~qzhao/publications/pdf/salicon_cvpr15.pdf) / [Project Page](http://salicon.net/)
-
+        |   2009   |      ICCV      | Learning to Predict Where Humans Look | *Tilke Judd et al.*    | [📜 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5459462)
+        |   1998   |      TPAMI      | A Model of Saliency-Based Visual Attention for Rapid Scene Analysis | *Laurent Itti et al.*    | [📜 Paper](https://forums.cs.tau.ac.il/~hezy/Vision%20Seminar/koch%20attention%20pami.pdf)
     </details>
     
     - <details>
