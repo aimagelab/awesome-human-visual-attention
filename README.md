@@ -79,7 +79,7 @@ This repository contains a curated list of research papers and resources focusin
         - <details>
             <summary>Visual Question Answering</summary>
         </details>
-    - **Language Modelling**
+    - ***Language Modelling***
         - <details>
             <summary>Machine Reading Comprehension</summary>
         </details>
@@ -87,7 +87,7 @@ This repository contains a curated list of research papers and resources focusin
         - <details>
             <summary>Natural Language Understanding</summary>
         </details>
-    - **Domain-Specific Applications**
+    - ***Domain-Specific Applications***
         - <details>
             <summary>Robotics</summary>
         </details>
