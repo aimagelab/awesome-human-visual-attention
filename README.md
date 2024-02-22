@@ -19,7 +19,7 @@ This repository contains a curated list of research papers and resources focusin
 [**Rita Cucchiara**](https://scholar.google.com/citations?user=OM3sZEoAAAAJ&hl=it&oi=ao)
 
 <p align="center">
-    <img src="main_figure.pdf" style="max-width:500px">
+    <img src="figure.jpg" style="max-width:500px">
 </p>
 
 ## 📚 Table of Contents
