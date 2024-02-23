@@ -101,6 +101,15 @@ This repository contains a curated list of research papers and resources focusin
     - ***Vision-and-Language Applications***
         - <details>
             <summary>Automatic Captioning</summary>
+ 
+            | **Year** | **Conference / Journal** | **Title** | **Authors** | **Links** |
+            |:--------:|:--------------:|:---------:|:-----------:|:---------:|
+            |   2020   | EMNLP | Generating Image Descriptions via Sequential Cross-Modal Alignment Guided by Human Gaze |      *Ece Takmaz et al.*       | [📜 Paper](https://aclanthology.org/2020.emnlp-main.377.pdf) / [Code :octocat:](https://github.com/dmg-illc/didec-seq-gen)
+            |   2019   | ICCV | Human Attention in Image Captioning: Dataset and Analysis |      *Sen He et al.*       | [📜 Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/He_Human_Attention_in_Image_Captioning_Dataset_and_Analysis_ICCV_2019_paper.pdf) / [Code :octocat:](https://github.com/SenHe/Human-Attention-in-Image-Captioning)
+            |   2018   | ACM TOMM | Paying More Attention to Saliency: Image Captioning with Saliency and Context Attention |      *Marcella Cornia et al.*       | [📜 Paper](https://arxiv.org/pdf/1706.08474.pdf)
+            |   2017   | CVPR | Supervising Neural Attention Models for Video Captioning by Human Gaze Data |      *Youngjae Yu et al.*       | [📜 Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Yu_Supervising_Neural_Attention_CVPR_2017_paper.pdf) / [Code :octocat:](https://github.com/yj-yu/Recurrent_Gaze_Prediction)
+            |   2016   | arXiv | Seeing with Humans: Gaze-Assisted Neural Image Captioning |      *Yusuke Sugano et al.*       | [📜 Paper](https://arxiv.org/pdf/1608.05203.pdf)
+            
         </details>
         
         - <details>
