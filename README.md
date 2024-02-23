@@ -154,6 +154,13 @@ This repository contains a curated list of research papers and resources focusin
     - ***Domain-Specific Applications***
         - <details>
             <summary>Robotics</summary>
+ 
+            | **Year** | **Conference / Journal** | **Title** | **Authors** | **Links** |
+            |:--------:|:--------------:|:---------:|:-----------:|:---------:|
+            |   2023   | IEEE RA-L | GVGNet: Gaze-Directed Visual Grounding for Learning Under-Specified Object Referring Intention |      *Kun Qian et al.*       | [📜 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10202186)
+          
+ 
+          
         </details>
         
         - <details>
