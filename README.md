@@ -91,6 +91,12 @@ This repository contains a curated list of research papers and resources focusin
         
         - <details>
             <summary>Image Quality Assessment</summary>
+ 
+            | **Year** | **Conference / Journal** | **Title** | **Authors** | **Links** |
+            |:--------:|:--------------:|:---------:|:-----------:|:---------:|
+            |   2023   | CVPR | ScanDMM: A Deep Markov Model of Scanpath Prediction for 360° Images |      *Xiangjie Sui et al.*       | [📜 Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Sui_ScanDMM_A_Deep_Markov_Model_of_Scanpath_Prediction_for_360deg_CVPR_2023_paper.pdf) / [Code :octocat:](https://github.com/xiangjieSui/ScanDMM)
+            |   2021   | ICCV Workshop | Saliency-Guided Transformer Network combined with Local Embedding for No-Reference Image Quality Assessment |      *Mengmeng Zhu et al.*       | [📜 Paper](https://openaccess.thecvf.com/content/ICCV2021W/AIM/papers/Zhu_Saliency-Guided_Transformer_Network_Combined_With_Local_Embedding_for_No-Reference_Image_ICCVW_2021_paper.pdf)
+            |   2019   | ACMMM | SGDNet: An End-to-End Saliency-Guided Deep Neural Network for No-Reference Image Quality Assessment |      *Sheng Yang et al.*       | [📜 Paper](https://dl.acm.org/doi/pdf/10.1145/3343031.3350990) / [Code :octocat:](https://github.com/ysyscool/SGDNet)
         </details>
     - ***Vision-and-Language Applications***
         - <details>
