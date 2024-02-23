@@ -158,6 +158,9 @@ This repository contains a curated list of research papers and resources focusin
             | **Year** | **Conference / Journal** | **Title** | **Authors** | **Links** |
             |:--------:|:--------------:|:---------:|:-----------:|:---------:|
             |   2023   | IEEE RA-L | GVGNet: Gaze-Directed Visual Grounding for Learning Under-Specified Object Referring Intention |      *Kun Qian et al.*       | [📜 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10202186)
+            |   2022   | RSS | Gaze Complements Control Input for Goal Prediction During Assisted Teleoperation |      *Reuben M. Aronson et al.*       | [📜 Paper](https://harp.ri.cmu.edu/assets/pubs/aronson_gaze_to_goal_rss22.pdf)
+            |   2019   | CoRL | Understanding Teacher Gaze Patterns for Robot Learning |      *Akanksha Saran et al.*       | [📜 Paper](https://proceedings.mlr.press/v100/saran20a/saran20a.pdf) / [Code :octocat:](https://github.com/asaran/gaze-LfD)
+            |   2019   | CoRL | Nonverbal Robot Feedback for Human Teachers |      *Sandy H. Huang et al.*       | [📜 Paper](https://proceedings.mlr.press/v100/huang20a/huang20a.pdf)
           
  
           
