@@ -95,7 +95,7 @@ This repository contains a curated list of research papers and resources focusin
             | **Year** | **Conference / Journal** | **Title** | **Authors** | **Links** |
             |:--------:|:--------------:|:---------:|:-----------:|:---------:|
             |   2023   | CVPR | ScanDMM: A Deep Markov Model of Scanpath Prediction for 360° Images |      *Xiangjie Sui et al.*       | [📜 Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Sui_ScanDMM_A_Deep_Markov_Model_of_Scanpath_Prediction_for_360deg_CVPR_2023_paper.pdf) / [Code :octocat:](https://github.com/xiangjieSui/ScanDMM)
-            |   2021   | ICCV Workshop | Saliency-Guided Transformer Network combined with Local Embedding for No-Reference Image Quality Assessment |      *Mengmeng Zhu et al.*       | [📜 Paper](https://openaccess.thecvf.com/content/ICCV2021W/AIM/papers/Zhu_Saliency-Guided_Transformer_Network_Combined_With_Local_Embedding_for_No-Reference_Image_ICCVW_2021_paper.pdf)
+            |   2021   | ICCV Workshops | Saliency-Guided Transformer Network combined with Local Embedding for No-Reference Image Quality Assessment |      *Mengmeng Zhu et al.*       | [📜 Paper](https://openaccess.thecvf.com/content/ICCV2021W/AIM/papers/Zhu_Saliency-Guided_Transformer_Network_Combined_With_Local_Embedding_for_No-Reference_Image_ICCVW_2021_paper.pdf)
             |   2019   | ACMMM | SGDNet: An End-to-End Saliency-Guided Deep Neural Network for No-Reference Image Quality Assessment |      *Sheng Yang et al.*       | [📜 Paper](https://dl.acm.org/doi/pdf/10.1145/3343031.3350990) / [Code :octocat:](https://github.com/ysyscool/SGDNet)
         </details>
     - ***Vision-and-Language Applications***
@@ -118,7 +118,7 @@ This repository contains a curated list of research papers and resources focusin
             | **Year** | **Conference / Journal** | **Title** | **Authors** | **Links** |
             |:--------:|:--------------:|:---------:|:-----------:|:---------:|
             |   2023   | EMNLP | GazeVQA: A Video Question Answering Dataset for Multiview Eye-Gaze Task-Oriented Collaborations |      *Muhammet Furkan Ilaslan et al.*       | [📜 Paper](https://aclanthology.org/2023.emnlp-main.648.pdf) / [Code :octocat:](https://github.com/mfurkanilaslan/GazeVQA)
-            |   2023   | CVPR Workshop | Multimodal Integration of Human-Like Attention in Visual Question Answering |      *Ekta Sood et al.*       | [📜 Paper](https://openaccess.thecvf.com/content/CVPR2023W/GAZE/papers/Sood_Multimodal_Integration_of_Human-Like_Attention_in_Visual_Question_Answering_CVPRW_2023_paper.pdf) / [Project Page](https://perceptualui.org/publications/sood23_gaze/)
+            |   2023   | CVPR Workshops | Multimodal Integration of Human-Like Attention in Visual Question Answering |      *Ekta Sood et al.*       | [📜 Paper](https://openaccess.thecvf.com/content/CVPR2023W/GAZE/papers/Sood_Multimodal_Integration_of_Human-Like_Attention_in_Visual_Question_Answering_CVPRW_2023_paper.pdf) / [Project Page](https://perceptualui.org/publications/sood23_gaze/)
             |   2021   | CoNLL | VQA-MHUG: A Gaze Dataset to Study Multimodal Neural Attention in Visual Question Answering |      *Ekta Sood et al.*       | [📜 Paper](https://aclanthology.org/2021.conll-1.3.pdf) / [Dataset + Project Page](https://perceptualui.org/publications/sood21_conll/)
             |   2020   | ECCV | AiR: Attention with Reasoning Capability |      *Shi Chen et al.*       | [📜 Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460086.pdf) / [Code :octocat:](https://github.com/szzexpoi/AiR)
             |   2018   | AAAI | Exploring Human-like Attention Supervision in Visual Question Answering |      *Tingting Qiao et al.*       | [📜 Paper](https://arxiv.org/pdf/1709.06308.pdf) / [Code :octocat:](https://github.com/qiaott/HAN) 
@@ -129,6 +129,14 @@ This repository contains a curated list of research papers and resources focusin
     - ***Language Modelling***
         - <details>
             <summary>Machine Reading Comprehension</summary>
+ 
+            | **Year** | **Conference / Journal** | **Title** | **Authors** | **Links** |
+            |:--------:|:--------------:|:---------:|:-----------:|:---------:|
+            |   2023   | ACL Workshops | Native Language Prediction from Gaze: a Reproducibility Study |      *Lina Skerath et al.*       | [📜 Paper](https://aclanthology.org/2023.acl-srw.26.pdf) / [Code :octocat:](https://github.com/linaskerath/ANLP_project)
+            |   2022   | ETRA | Inferring Native and Non-Native Human Reading Comprehension and Subjective Text Difficulty from Scanpaths |      *David R. Reich et al.*       | [📜 Paper](https://dl.acm.org/doi/pdf/10.1145/3517031.3529639) / [Code :octocat:](https://github.com/aeye-lab/etra-reading-comprehension)
+            |   2017   | ACL | Predicting Native Language from Gaze |      *Yevgeni Berzak et al.*       | [📜 Paper](https://aclanthology.org/P17-1050.pdf)
+ 
+            
         </details>
         
         - <details>
