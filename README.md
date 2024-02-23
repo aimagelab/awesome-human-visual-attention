@@ -140,7 +140,16 @@ This repository contains a curated list of research papers and resources focusin
         </details>
         
         - <details>
-            <summary>Natural Language Understanding</summary>
+            <summary>Natural Language Understanding</summary>    
+ 
+            | **Year** | **Conference / Journal** | **Title** | **Authors** | **Links** |
+            |:--------:|:--------------:|:---------:|:-----------:|:---------:|
+            |   2023   | EMNLP | Pre-Trained Language Models Augmented with Synthetic Scanpaths for Natural Language Understanding |      *Shuwen Deng et al.*       | [📜 Paper](https://aclanthology.org/2023.emnlp-main.400.pdf) / [Code :octocat:](https://github.com/aeye-lab/EMNLP-SyntheticScanpaths-NLU-PretrainedLM)
+            |   2023   | EACL | Synthesizing Human Gaze Feedback for Improved NLP Performance |      *Varun Khurana et al.*       | [📜 Paper](https://aclanthology.org/2023.eacl-main.139.pdf)
+            |   2020   | NeurIPS | Improving Natural Language Processing Tasks with Human Gaze-Guided Neural Attention |      *Ekta Sood et al.*       | [📜 Paper](https://proceedings.neurips.cc/paper_files/paper/2020/file/460191c72f67e90150a093b4585e7eb4-Paper.pdf) / [Project Page](https://perceptualui.org/publications/sood20_neurips/)
+          
+
+            
         </details>
     - ***Domain-Specific Applications***
         - <details>
