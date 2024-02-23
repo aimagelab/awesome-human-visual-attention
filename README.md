@@ -80,6 +80,13 @@ This repository contains a curated list of research papers and resources focusin
     
         - <details>
             <summary>Image Enhancement and Manipulation</summary>
+  
+            | **Year** | **Conference / Journal** | **Title** | **Authors** | **Links** |
+            |:--------:|:--------------:|:---------:|:-----------:|:---------:|
+            |   2023   | CVPR | Realistic saliency guided image enhancement |      *S. Mahdi H. Miangoleh et al.*       | [📜 Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Miangoleh_Realistic_Saliency_Guided_Image_Enhancement_CVPR_2023_paper.pdf) / [Code :octocat:](https://github.com/compphoto/RealisticImageEnhancement) / [Project Page](https://yaksoy.github.io/realisticEditing/)
+            |   2022   | CVPR | Deep saliency prior for reducing visual distraction |      *Kfir Aberman et al.*       | [📜 Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Aberman_Deep_Saliency_Prior_for_Reducing_Visual_Distraction_CVPR_2022_paper.pdf) / [Project Page](https://deep-saliency-prior.github.io/)
+            |   2021   | CVPR | Saliency-guided image translation |      *Lai Jiang et al.*       | [📜 Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Jiang_Saliency-Guided_Image_Translation_CVPR_2021_paper.pdf)
+            |   2017   | arXiv | Guiding human gaze with convolutional neural networks |      *Leon A. Gatys et al.*       | [📜 Paper](https://arxiv.org/pdf/1712.06492.pdf)
         </details>
         
         - <details>
