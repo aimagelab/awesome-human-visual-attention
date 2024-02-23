@@ -117,6 +117,8 @@ This repository contains a curated list of research papers and resources focusin
  
             | **Year** | **Conference / Journal** | **Title** | **Authors** | **Links** |
             |:--------:|:--------------:|:---------:|:-----------:|:---------:|
+            |   2023   | EMNLP | GazeVQA: A Video Question Answering Dataset for Multiview Eye-Gaze Task-Oriented Collaborations |      *Muhammet Furkan Ilaslan et al.*       | [📜 Paper](https://aclanthology.org/2023.emnlp-main.648.pdf) / [Code :octocat:](https://github.com/mfurkanilaslan/GazeVQA)
+            |   2023   | CVPR Workshop | Multimodal Integration of Human-Like Attention in Visual Question Answering |      *Ekta Sood et al.*       | [📜 Paper](https://openaccess.thecvf.com/content/CVPR2023W/GAZE/papers/Sood_Multimodal_Integration_of_Human-Like_Attention_in_Visual_Question_Answering_CVPRW_2023_paper.pdf) / [Project Page](https://perceptualui.org/publications/sood23_gaze/)
             |   2021   | CoNLL | VQA-MHUG: A Gaze Dataset to Study Multimodal Neural Attention in Visual Question Answering |      *Ekta Sood et al.*       | [📜 Paper](https://aclanthology.org/2021.conll-1.3.pdf) / [Dataset + Project Page](https://perceptualui.org/publications/sood21_conll/)
             |   2020   | ECCV | AiR: Attention with Reasoning Capability |      *Shi Chen et al.*       | [📜 Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460086.pdf) / [Code :octocat:](https://github.com/szzexpoi/AiR)
             |   2018   | AAAI | Exploring Human-like Attention Supervision in Visual Question Answering |      *Tingting Qiao et al.*       | [📜 Paper](https://arxiv.org/pdf/1709.06308.pdf) / [Code :octocat:](https://github.com/qiaott/HAN) 
