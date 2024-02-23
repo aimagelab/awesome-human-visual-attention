@@ -114,6 +114,15 @@ This repository contains a curated list of research papers and resources focusin
         
         - <details>
             <summary>Visual Question Answering</summary>
+ 
+            | **Year** | **Conference / Journal** | **Title** | **Authors** | **Links** |
+            |:--------:|:--------------:|:---------:|:-----------:|:---------:|
+            |   2021   | CoNLL | VQA-MHUG: A Gaze Dataset to Study Multimodal Neural Attention in Visual Question Answering |      *Ekta Sood et al.*       | [📜 Paper](https://aclanthology.org/2021.conll-1.3.pdf) / [Dataset + Project Page](https://perceptualui.org/publications/sood21_conll/)
+            |   2020   | ECCV | AiR: Attention with Reasoning Capability |      *Shi Chen et al.*       | [📜 Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460086.pdf) / [Code :octocat:](https://github.com/szzexpoi/AiR)
+            |   2018   | AAAI | Exploring Human-like Attention Supervision in Visual Question Answering |      *Tingting Qiao et al.*       | [📜 Paper](https://arxiv.org/pdf/1709.06308.pdf) / [Code :octocat:](https://github.com/qiaott/HAN) 
+            |   2016   | EMNLP | Human Attention in Visual Question Answering: Do Humans and Deep Networks Look at the Same Regions? |      *Abhishek Das et al.*       | [📜 Paper](https://aclanthology.org/D16-1092.pdf)
+ 
+          
         </details>
     - ***Language Modelling***
         - <details>
