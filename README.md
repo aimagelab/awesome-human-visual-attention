@@ -2,7 +2,7 @@
 This repository contains a curated list of research papers and resources focusing on saliency and scanpath prediction, human attention, human visual search.
 
 
-❗ Latest Update: 23 February 2024.
+❗ Latest Update: 24 February 2024.
 ❗This repo is a work in progress. New updates coming soon, stay tuned!! :construction:
 
 ## Our Survey on Human Visual Attention 👀
@@ -169,10 +169,10 @@ This repository contains a curated list of research papers and resources focusin
  
             | **Year** | **Conference / Journal** | **Title** | **Authors** | **Links** |
             |:--------:|:--------------:|:---------:|:-----------:|:---------:|
-            |   2021   | ICCV |  |      *Kun Qian et al.*       | [📜 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10202186)
-            |   2020   | CVPR |  |      *Kun Qian et al.*       | [📜 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10202186)
-            |   2018   | ACCV |  |      *Kun Qian et al.*       | [📜 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10202186)
-            |   2018   | TPAMI |  |      *Kun Qian et al.*       | [📜 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10202186)
+            |   2021   | ICCV | MEDIRL: Predicting the Visual Attention of Drivers via Deep Inverse Reinforcement Learning |      *Sonia Baee et al.*       | [📜 Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Baee_MEDIRL_Predicting_the_Visual_Attention_of_Drivers_via_Maximum_Entropy_ICCV_2021_paper.pdf) / [Code :octocat:](https://github.com/soniabaee/MEDIRL-EyeCar) / [Project Page](https://soniabaee.github.io/projects/medirl-eyecar/medirl-eyecar.html)
+            |   2020   | CVPR | “Looking at the right stuff” - Guided semantic-gaze for autonomous driving |      *Anwesan Pal et al.*       | [📜 Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Pal_Looking_at_the_Right_Stuff_-_Guided_Semantic-Gaze_for_Autonomous_CVPR_2020_paper.pdf) / [Code :octocat:](https://github.com/anwesanpal/SAGENet_demo)
+            |   2018   | ACCV | Predicting Driver Attention in Critical Situations |      *Ye Xia et al.*       | [📜 Paper](https://arxiv.org/pdf/1711.06406.pdf) / [Code :octocat:](https://github.com/pascalxia/driver_attention_prediction)
+            |   2018   | TPAMI | Predicting the Driver’s Focus of Attention: the DR(eye)VE Project |      *Andrea Palazzi et al.*       | [📜 Paper](https://arxiv.org/pdf/1705.03854.pdf) / [Code :octocat:](https://github.com/ndrplz/dreyeve)
  
         </details>
         
