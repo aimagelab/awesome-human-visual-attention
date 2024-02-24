@@ -178,6 +178,16 @@ This repository contains a curated list of research papers and resources focusin
         
         - <details>
             <summary>Medicine</summary>
+ 
+            | **Year** | **Conference / Journal** | **Title** | **Authors** | **Links** |
+            |:--------:|:--------------:|:---------:|:-----------:|:---------:|
+            |   2024   | WACV | GazeGNN: A Gaze-Guided Graph Neural Network for Chest X-ray Classification |      *Bin Wang et al.*       | [📜 Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Wang_GazeGNN_A_Gaze-Guided_Graph_Neural_Network_for_Chest_X-Ray_Classification_WACV_2024_paper.pdf) / [Code :octocat:](https://github.com/ukaukaaaa/GazeGNN)
+            |   2023   | IEEE Transactions on Medical Imaging | Eye-gaze-guided Vision Transformer for Rectifying Shortcut Learning |      *Chong Ma et al.*       | [📜 Paper](https://arxiv.org/pdf/2205.12466.pdf)
+            |   2022   | IEEE Transactions on Medical Imaging | Follow My Eye: Using Gaze to Supervise Computer-Aided Diagnosis |      *Sheng Wang et al.*       | [📜 Paper](https://arxiv.org/pdf/2204.02976.pdf) / [Code :octocat:](https://github.com/JamesQFreeman/MICEYE)
+            |   2022   | ECCV | RadioTransformer: A Cascaded Global-Focal Transformer for Visual Attention–guided Disease Classification |      *Moinak Bhattacharya et al.*       | [📜 Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136810669.pdf) / [Code :octocat:](https://github.com/bmi-imaginelab/radiotransformer)
+            |   2021   | Nature Scientific Data | Creation and validation of a chest X-ray dataset with eye-tracking and report dictation for AI development |      *Alexandros Karargyris  et al.*       | [📜 Paper](https://www.nature.com/articles/s41597-021-00863-5) / [Code :octocat:](https://github.com/cxr-eye-gaze/eye-gaze-dataset)
+          
+          
         </details>
 
 
