@@ -2,7 +2,7 @@
 This repository contains a curated list of research papers and resources focusing on saliency and scanpath prediction, human attention, human visual search.
 
 
-❗ Latest Update: 24 February 2024.
+❗ Latest Update: 27 February 2024.
 ❗This repo is a work in progress. New updates coming soon, stay tuned!! :construction:
 
 ## Our Survey on Human Visual Attention 👀
@@ -29,11 +29,14 @@ This repository contains a curated list of research papers and resources focusin
         
         | **Year** | **Conference / Journal** | **Title** | **Authors** | **Links** |
         |:--------:|:--------------:|:----------------------------------------------------|:---------------------|:---------:|
+        |   2024   |      WACV      | Learning Saliency from Fixations | *Yasser Abdelaziz Dahou Djilali et al.*    | [📜 Paper](https://arxiv.org/pdf/2311.14073.pdf) / [Code :octocat:](https://github.com/YasserdahouML/SalTR) 
         |   2023   |      CVPR      | Learning from Unique Perspectives: User-aware Saliency Modeling | *Shi Chen et al.*    | [📜 Paper](https://openaccess.thecvf.com//content/CVPR2023/papers/Chen_Learning_From_Unique_Perspectives_User-Aware_Saliency_Modeling_CVPR_2023_paper.pdf) 
         |   2023   |      CVPR      | TempSAL - Uncovering Temporal Information for Deep Saliency Prediction | *Bahar Aydemir et al.*    | [📜 Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Aydemir_TempSAL_-_Uncovering_Temporal_Information_for_Deep_Saliency_Prediction_CVPR_2023_paper.pdf) / [Code :octocat:](https://github.com/IVRL/Tempsal)
         |   2023   |      BMVC      | Clustered Saliency Prediction | *Rezvan Sherkat et al.*    | [📜 Paper](https://arxiv.org/pdf/2207.02205.pdf)
         |   2023   |      NeurIPS      | What Do Deep Saliency Models Learn about Visual Attention? | *Shi Chen et al.*    | [📜 Paper](https://arxiv.org/pdf/2310.09679.pdf) / [Code :octocat:](https://github.com/szzexpoi/saliency_analysis)
         |   2022   |      Neurocomputing      | TranSalNet: Towards perceptually relevant visual saliency prediction | *Jianxun Lou et al.*    | [📜 Paper](https://www.sciencedirect.com/science/article/pii/S0925231222004714?via%3Dihub) / [Code :octocat:](https://github.com/LJOVO/TranSalNet?tab=readme-ov-file)
+      |   2020   |      CVPR      | STAViS: Spatio-Temporal AudioVisual Saliency Network | *Antigoni Tsiami et al.*    | [📜 Paper](https://arxiv.org/pdf/2001.03063.pdf) / [Code :octocat:](https://github.com/atsiami/STAViS)
+      |   2020   |      CVPR      | How much time do you have? Modeling multi-duration saliency | *Camilo Fosco et al.*    | [📜 Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fosco_How_Much_Time_Do_You_Have_Modeling_Multi-Duration_Saliency_CVPR_2020_paper.pdf) / [Code :octocat:](https://github.com/diviz-mit/multiduration-saliency/) / [Project Page](http://multiduration-saliency.csail.mit.edu/)
       |   2018   |      IEEE Transactions on Image Processing      | Predicting Human Eye Fixations via an LSTM-based Saliency Attentive Model | *Marcella Cornia et al.*    | [📜 Paper](https://arxiv.org/pdf/1611.09571.pdf) / [Code :octocat:](https://github.com/marcellacornia/sam)
         |   2015   |      CVPR      | SALICON: Saliency in Context | *Ming Jiang et al.*    | [📜 Paper](https://openaccess.thecvf.com/content_cvpr_2015/papers/Jiang_SALICON_Saliency_in_2015_CVPR_paper.pdf) / [Project Page](http://salicon.net/)
         |   2009   |      ICCV      | Learning to Predict Where Humans Look | *Tilke Judd et al.*    | [📜 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5459462)
