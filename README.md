@@ -10,12 +10,12 @@ This repository contains a curated list of research papers and resources focusin
 🔥🔥 [*Trends, Applications, and Challenges in Human Attention Modelling*](http://arxiv.org/abs/2402.18673) 🔥🔥\
 \
 **Authors:** 
-[**Giuseppe Cartella**](https://scholar.google.com/citations?hl=en&user=0sJ4VCcAAAAJ)
-[**Marcella Cornia**](https://scholar.google.com/citations?user=DzgmSJEAAAAJ&hl=it&oi=ao)
-[**Vittorio Cuculo**](https://scholar.google.com/citations?user=usEfqxoAAAAJ&hl=it&oi=ao)
-[**Alessandro D'Amelio**](https://scholar.google.com/citations?user=chkawtoAAAAJ&hl=it&oi=ao)
-[**Dario Zanca**](https://scholar.google.com/citations?user=KjwaSXkAAAAJ&hl=it&oi=ao)
-[**Giuseppe Boccignone**](https://scholar.google.com/citations?user=LqM0uJwAAAAJ&hl=it&oi=ao)
+[**Giuseppe Cartella**](https://scholar.google.com/citations?hl=en&user=0sJ4VCcAAAAJ),
+[**Marcella Cornia**](https://scholar.google.com/citations?user=DzgmSJEAAAAJ&hl=it&oi=ao),
+[**Vittorio Cuculo**](https://scholar.google.com/citations?user=usEfqxoAAAAJ&hl=it&oi=ao),
+[**Alessandro D'Amelio**](https://scholar.google.com/citations?user=chkawtoAAAAJ&hl=it&oi=ao),
+[**Dario Zanca**](https://scholar.google.com/citations?user=KjwaSXkAAAAJ&hl=it&oi=ao),
+[**Giuseppe Boccignone**](https://scholar.google.com/citations?user=LqM0uJwAAAAJ&hl=it&oi=ao),
 [**Rita Cucchiara**](https://scholar.google.com/citations?user=OM3sZEoAAAAJ&hl=it&oi=ao)
 
 <p align="center">
