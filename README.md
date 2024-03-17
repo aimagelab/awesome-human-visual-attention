@@ -202,7 +202,7 @@ This repository contains a curated list of research papers and resources focusin
           
         </details>
 
-- **Datasets & Benchmarks**
+- **Datasets & Benchmarks 📂📎**
     - <details>
         <summary>Saliency Prediction</summary>
         
