@@ -2,7 +2,7 @@
 This repository contains a curated list of research papers and resources focusing on saliency and scanpath prediction, human attention, human visual search.
 
 
-❗ Latest Update: 1 March 2024.
+❗ Latest Update: 17 March 2024.
 ❗This repo is a work in progress. New updates coming soon, stay tuned!! :construction:
 
 ## Our Survey on Human Visual Attention 👀
@@ -186,9 +186,12 @@ This repository contains a curated list of research papers and resources focusin
             |:--------:|:--------------:|:---------:|:-----------:|:---------:|
             |   2024   | WACV | GazeGNN: A Gaze-Guided Graph Neural Network for Chest X-ray Classification |      *Bin Wang et al.*       | [📜 Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Wang_GazeGNN_A_Gaze-Guided_Graph_Neural_Network_for_Chest_X-Ray_Classification_WACV_2024_paper.pdf) / [Code :octocat:](https://github.com/ukaukaaaa/GazeGNN)
             |   2023   | IEEE Transactions on Medical Imaging | Eye-gaze-guided Vision Transformer for Rectifying Shortcut Learning |      *Chong Ma et al.*       | [📜 Paper](https://arxiv.org/pdf/2205.12466.pdf)
+            |   2023   | Transactions on Neural Networks and Learning Systems | Rectify ViT Shortcut Learning by Visual Saliency |      *Chong Ma et al.*       | [📜 Paper](https://ieeexplore.ieee.org/document/10250856)
             |   2022   | IEEE Transactions on Medical Imaging | Follow My Eye: Using Gaze to Supervise Computer-Aided Diagnosis |      *Sheng Wang et al.*       | [📜 Paper](https://arxiv.org/pdf/2204.02976.pdf) / [Code :octocat:](https://github.com/JamesQFreeman/MICEYE)
             |   2022   | ECCV | RadioTransformer: A Cascaded Global-Focal Transformer for Visual Attention–guided Disease Classification |      *Moinak Bhattacharya et al.*       | [📜 Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136810669.pdf) / [Code :octocat:](https://github.com/bmi-imaginelab/radiotransformer)
             |   2021   | Nature Scientific Data | Creation and validation of a chest X-ray dataset with eye-tracking and report dictation for AI development |      *Alexandros Karargyris  et al.*       | [📜 Paper](https://www.nature.com/articles/s41597-021-00863-5) / [Code :octocat:](https://github.com/cxr-eye-gaze/eye-gaze-dataset)
+            |   2021   | BMVC | Human Attention in Fine-grained Classification |      *Yao Rong  et al.*       | [📜 Paper](https://www.bmvc2021-virtualconference.com/assets/papers/0421.pdf) / [Code :octocat:](https://github.com/yaorong0921/CUB-GHA)
+            |   2018   | Journal of Medical Imaging | Modeling visual search behavior of breast radiologists using a deep convolution neural network |      *Suneeta Mall  et al.*       | [📜 Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6086967/pdf/JMI-005-035502.pdf)
           
           
         </details>
