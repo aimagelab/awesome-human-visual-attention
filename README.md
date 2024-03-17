@@ -211,6 +211,14 @@ This repository contains a curated list of research papers and resources focusin
         
     </details>
 
+    - <details>
+        <summary>Scanpath Prediction</summary>
+        
+        - [COCOFreeView](https://sites.google.com/view/cocosearch/coco-freeview)
+        - [COCOSearch18](https://sites.google.com/view/cocosearch/)
+        
+    </details>
+
 # How to Contribute 🚀
 
 1. Fork this repository and clone it locally.
