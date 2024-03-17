@@ -205,8 +205,9 @@ This repository contains a curated list of research papers and resources focusin
 - **Datasets & Benchmarks**
     - <details>
         <summary>Saliency Prediction</summary>
-        - Mit 1300
-        - SALICON
+        
+        - [SALICON](http://salicon.net/download/) - [SALICON API](https://github.com/NUS-VIP/salicon-api)
+        - [MIT1003](https://people.csail.mit.edu/tjudd/WherePeopleLook/index.html)
         
     </details>
 
