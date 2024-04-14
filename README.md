@@ -48,6 +48,7 @@ This repository contains a curated list of research papers and resources focusin
     
         | **Year** | **Conference / Journal** | **Title** | **Authors** | **Links** |
         |:--------:|:--------------:|:---------:|:-----------:|:---------:|
+        |   2024   |      CVPR      | Unifying Top-down and Bottom-up Scanpath Prediction Using Transformers | *Zhibo Yang et al.*    | [📜 Paper](https://arxiv.org/pdf/2303.09383.pdf) / [Code :octocat:](https://github.com/cvlab-stonybrook/HAT)
         |   2023   |      arXiv      | Contrastive Language-Image Pretrained Models are Zero-Shot Human Scanpath Predictors | *Dario Zanca et al.*    | [📜 Paper](https://arxiv.org/pdf/2305.12380.pdf) / [Code + Dataset :octocat:](https://github.com/mad-lab-fau/CapMIT1003)
         |   2023   |      CVPR      | Gazeformer: Scalable, Effective and Fast Prediction of Goal-Directed Human Attention | *Sounak Mondal et al.*    | [📜 Paper](https://arxiv.org/pdf/2303.15274.pdf) / [Code :octocat:](https://github.com/cvlab-stonybrook/Gazeformer/)
         |   2022   |      ECCV      | Target-absent Human Attention | *Zhibo Yang et al.*    | [📜 Paper](https://arxiv.org/pdf/2207.01166.pdf) / [Code :octocat:](https://github.com/cvlab-stonybrook/Target-absent-Human-Attention)
