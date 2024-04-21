@@ -5,7 +5,7 @@ This repository contains a curated list of research papers and resources focusin
 ❗ Latest Update: 14 April 2024.
 ❗This repo is a work in progress. New updates coming soon, stay tuned!! :construction:
 
-## 🔥 Latest News 🔥
+## 📣 Latest News 📣
 - **`20 April 2024`** Our survey has been accepted for publication to IJCAI2024 Survey Track!
 
 ## Our Survey on Human Visual Attention 👀
