@@ -6,7 +6,7 @@ This repository contains a curated list of research papers and resources focusin
 ❗This repo is a work in progress. New updates coming soon, stay tuned!! :construction:
 
 ## 📣 Latest News 📣
-- **`20 April 2024`** Our survey paper has been accepted for publication to **IJCAI2024 Survey Track**!
+- **`20 April 2024`** Our survey paper has been accepted for publication at **IJCAI2024 Survey Track**!
 
 ## Our Survey on Human Visual Attention 👀
 
