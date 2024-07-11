@@ -2,7 +2,7 @@
 This repository contains a curated list of research papers and resources focusing on saliency and scanpath prediction, human attention, human visual search.
 
 
-❗ Latest Update: 22 April 2024.
+❗ Latest Update: 11 July 2024.
 ❗This repo is a work in progress. New updates coming soon, stay tuned!! :construction:
 
 ## 📣 Latest News 📣
@@ -193,6 +193,7 @@ This repository contains a curated list of research papers and resources focusin
  
             | **Year** | **Conference / Journal** | **Title** | **Authors** | **Links** |
             |:--------:|:--------------:|:---------:|:-----------:|:---------:|
+            |   2024   |      MICCAI      | Weakly-supervised Medical Image Segmentation with Gaze Annotations | *Yuan Zhong et al.*    | [📜 Paper](https://arxiv.org/pdf/2407.07406) / [Code :octocat:](https://github.com/med-air/GazeMedSeg) 
             |   2024   |      AAAI      | Mining Gaze for Contrastive Learning toward Computer-Assisted Diagnosis | *Zihao Zhao et al.*    | [📜 Paper](https://arxiv.org/pdf/2312.06069.pdf) / [Code :octocat:](https://github.com/zhaozh10/McGIP) 
             |   2024   | WACV | GazeGNN: A Gaze-Guided Graph Neural Network for Chest X-ray Classification |      *Bin Wang et al.*       | [📜 Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Wang_GazeGNN_A_Gaze-Guided_Graph_Neural_Network_for_Chest_X-Ray_Classification_WACV_2024_paper.pdf) / [Code :octocat:](https://github.com/ukaukaaaa/GazeGNN)
             |   2023   |      WACV      | Probabilistic Integration of Object Level Annotations in Chest X-ray Classification | *Tom van Sonsbeek et al.*    | [📜 Paper](https://openaccess.thecvf.com/content/WACV2023/papers/van_Sonsbeek_Probabilistic_Integration_of_Object_Level_Annotations_in_Chest_X-Ray_Classification_WACV_2023_paper.pdf)
