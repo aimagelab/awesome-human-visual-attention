@@ -213,18 +213,14 @@ This repository contains a curated list of research papers and resources focusin
 
 - **Datasets & Benchmarks 📂📎**
     - <details>
-        <summary>Saliency Prediction</summary>
+        <summary>Datasets</summary>
         
         - [SALICON](http://salicon.net/download/) - [SALICON API](https://github.com/NUS-VIP/salicon-api)
         - [MIT1003](https://people.csail.mit.edu/tjudd/WherePeopleLook/index.html)
-        
-    </details>
-
-    - <details>
-        <summary>Scanpath Prediction</summary>
-        
+        - [OSIE](https://www-users.cse.umn.edu/~qzhao/predicting.html)
         - [COCOFreeView](https://sites.google.com/view/cocosearch/coco-freeview)
         - [COCOSearch18](https://sites.google.com/view/cocosearch/)
+        - [RefCOCO-Gaze]([https://sites.google.com/view/cocosearch/](https://github.com/cvlab-stonybrook/refcoco-gaze))
         
     </details>
 
