@@ -51,6 +51,8 @@ This repository contains a curated list of research papers and resources focusin
     
         | **Year** | **Conference / Journal** | **Title** | **Authors** | **Links** |
         |:--------:|:--------------:|:---------:|:-----------:|:---------:|
+        |   2024   |      ECCV      | GazeXplain: Learning to Predict Natural Language Explanations of Visual Scanpaths | *Xianyu Chen et al.*    | [📜 Paper] / [Code :octocat:](https://github.com/chenxy99/GazeXplain)
+        |   2024   |      ECCV      | Look Hear: Gaze Prediction for Speech-directed Human Attention | *Sounak Mondal et al.*    | [📜 Paper](https://arxiv.org/pdf/2407.19605) / [Code :octocat:]([https://github.com/chenxy99/GazeXplain](https://github.com/cvlab-stonybrook/ART))
         |   2024   |      CVPR      | Beyond Average: Individualized Visual Scanpath Prediction | *Xianyu Chen et al.*    | [📜 Paper](https://arxiv.org/pdf/2404.12235.pdf)
         |   2024   |      CVPR      | Unifying Top-down and Bottom-up Scanpath Prediction Using Transformers | *Zhibo Yang et al.*    | [📜 Paper](https://arxiv.org/pdf/2303.09383.pdf) / [Code :octocat:](https://github.com/cvlab-stonybrook/HAT)
         |   2023   |      arXiv      | Contrastive Language-Image Pretrained Models are Zero-Shot Human Scanpath Predictors | *Dario Zanca et al.*    | [📜 Paper](https://arxiv.org/pdf/2305.12380.pdf) / [Code + Dataset :octocat:](https://github.com/mad-lab-fau/CapMIT1003)
