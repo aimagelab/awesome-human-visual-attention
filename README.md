@@ -220,7 +220,7 @@ This repository contains a curated list of research papers and resources focusin
         - [OSIE](https://www-users.cse.umn.edu/~qzhao/predicting.html)
         - [COCOFreeView](https://sites.google.com/view/cocosearch/coco-freeview)
         - [COCOSearch18](https://sites.google.com/view/cocosearch/)
-        - [RefCOCO-Gaze]([https://sites.google.com/view/cocosearch/](https://github.com/cvlab-stonybrook/refcoco-gaze))
+        - [RefCOCO-Gaze](https://github.com/cvlab-stonybrook/refcoco-gaze)
         
     </details>
 
