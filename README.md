@@ -32,6 +32,7 @@ This repository contains a curated list of research papers and resources focusin
         
         | **Year** | **Conference / Journal** | **Title** | **Authors** | **Links** |
         |:--------:|:--------------:|:----------------------------------------------------|:---------------------|:---------:|
+        |   2025   |      WACV      | SUM: Saliency Unification through Mamba for Visual Attention Modeling | *Alireza Hosseini et al.*    | [📜 Paper](https://arxiv.org/pdf/2406.17815) / [Code :octocat:]([https://github.com/YasserdahouML/SalTR](https://github.com/Arhosseini77/SUM)) / [Project Page](https://arhosseini77.github.io/sum_page/)
         |   2024   |      WACV      | Learning Saliency from Fixations | *Yasser Abdelaziz Dahou Djilali et al.*    | [📜 Paper](https://arxiv.org/pdf/2311.14073.pdf) / [Code :octocat:](https://github.com/YasserdahouML/SalTR) 
         |   2023   |      CVPR      | Learning from Unique Perspectives: User-aware Saliency Modeling | *Shi Chen et al.*    | [📜 Paper](https://openaccess.thecvf.com//content/CVPR2023/papers/Chen_Learning_From_Unique_Perspectives_User-Aware_Saliency_Modeling_CVPR_2023_paper.pdf) 
         |   2023   |      CVPR      | TempSAL - Uncovering Temporal Information for Deep Saliency Prediction | *Bahar Aydemir et al.*    | [📜 Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Aydemir_TempSAL_-_Uncovering_Temporal_Information_for_Deep_Saliency_Prediction_CVPR_2023_paper.pdf) / [Code :octocat:](https://github.com/IVRL/Tempsal)
