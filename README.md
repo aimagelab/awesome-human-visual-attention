@@ -2,7 +2,7 @@
 This repository contains a curated list of research papers and resources focusing on saliency and scanpath prediction, human attention, human visual search.
 
 
-❗ Latest Update: 10 September 2024.
+❗ Latest Update: 3 December 2024.
 ❗This repo is a work in progress. New updates coming soon, stay tuned!! :construction:
 
 ## 📣 Latest News 📣
@@ -52,7 +52,8 @@ This repository contains a curated list of research papers and resources focusin
     
         | **Year** | **Conference / Journal** | **Title** | **Authors** | **Links** |
         |:--------:|:--------------:|:---------:|:-----------:|:---------:|
-        |   2024   |      ECCV      | GazeXplain: Learning to Predict Natural Language Explanations of Visual Scanpaths | *Xianyu Chen et al.*    | [📜 Paper] / [Code :octocat:](https://github.com/chenxy99/GazeXplain)
+        |   2025   |      WACV      | TPP-Gaze: Modelling Gaze Dynamics in Space and Time with Neural Temporal Point Processes | *Alessandro D'Amelio et al.*    | [📜 Paper](https://arxiv.org/abs/2410.23409) / [Code :octocat:](https://github.com/phuselab/tppgaze)
+        |   2024   |      ECCV      | GazeXplain: Learning to Predict Natural Language Explanations of Visual Scanpaths | *Xianyu Chen et al.*    | [📜 Paper](https://arxiv.org/abs/2408.02788) / [Code :octocat:](https://github.com/chenxy99/GazeXplain)
         |   2024   |      ECCV      | Look Hear: Gaze Prediction for Speech-directed Human Attention | *Sounak Mondal et al.*    | [📜 Paper](https://arxiv.org/pdf/2407.19605) / [Code :octocat:](https://github.com/cvlab-stonybrook/ART)
         |   2024   |      CVPR      | Beyond Average: Individualized Visual Scanpath Prediction | *Xianyu Chen et al.*    | [📜 Paper](https://arxiv.org/pdf/2404.12235.pdf)
         |   2024   |      CVPR      | Unifying Top-down and Bottom-up Scanpath Prediction Using Transformers | *Zhibo Yang et al.*    | [📜 Paper](https://arxiv.org/pdf/2303.09383.pdf) / [Code :octocat:](https://github.com/cvlab-stonybrook/HAT)
