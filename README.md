@@ -52,7 +52,6 @@ This repository contains a curated list of research papers and resources focusin
     
         | **Year** | **Conference / Journal** | **Title** | **Authors** | **Links** |
         |:--------:|:--------------:|:---------:|:-----------:|:---------:|
-        |   2025   |      CHI      | CHARTIST: Task-driven Eye Movement Control for Chart Reading | *Danqing Shi et al.*    | [📜 Paper](https://arxiv.org/abs/2502.03575)
         |   2025   |      WACV      | TPP-Gaze: Modelling Gaze Dynamics in Space and Time with Neural Temporal Point Processes | *Alessandro D'Amelio et al.*    | [📜 Paper](https://arxiv.org/abs/2410.23409) / [Code :octocat:](https://github.com/phuselab/tppgaze)
         |   2024   |      ECCV      | GazeXplain: Learning to Predict Natural Language Explanations of Visual Scanpaths | *Xianyu Chen et al.*    | [📜 Paper](https://arxiv.org/abs/2408.02788) / [Code :octocat:](https://github.com/chenxy99/GazeXplain)
         |   2024   |      ECCV      | Look Hear: Gaze Prediction for Speech-directed Human Attention | *Sounak Mondal et al.*    | [📜 Paper](https://arxiv.org/pdf/2407.19605) / [Code :octocat:](https://github.com/cvlab-stonybrook/ART)
@@ -87,6 +86,7 @@ This repository contains a curated list of research papers and resources focusin
             
             | **Year** | **Conference / Journal** | **Title** | **Authors** | **Links** |
             |:--------:|:--------------:|:---------:|:-----------:|:---------:|
+            |   2025   |      CHI      | CHARTIST: Task-driven Eye Movement Control for Chart Reading | *Danqing Shi et al.*    | [📜 Paper](https://arxiv.org/abs/2502.03575)
             |   2020   | ACM Symposium on UIST (User Interface Software and Technology) | Predicting Visual Importance Across Graphic Design Types |      *Camilo Fosco et al.*       | [📜 Paper](https://arxiv.org/pdf/2008.02912.pdf) / [Code :octocat:](https://github.com/diviz-mit/predimportance-public)
             |   2020   | ACM MobileHCI | Understanding Visual Saliency in Mobile User Interfaces |      *Luis A. Leiva et al.*       | [📜 Paper](https://arxiv.org/pdf/2101.09176.pdf)
             |   2017   | ACM Symposium on UIST (User Interface Software and Technology) | Learning Visual Importance for Graphic Designs and Data Visualizations |      *Zoya Bylinskii et al.*       | [📜 Paper](https://arxiv.org/pdf/1708.02660.pdf) / [Code :octocat:](https://github.com/cvzoya/visimportance)
