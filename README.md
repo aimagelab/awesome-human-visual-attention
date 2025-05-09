@@ -52,6 +52,7 @@ This repository contains a curated list of research papers and resources focusin
     
         | **Year** | **Conference / Journal** | **Title** | **Authors** | **Links** |
         |:--------:|:--------------:|:---------:|:-----------:|:---------:|
+        |   2025   |      CHI      | CHARTIST: Task-driven Eye Movement Control for Chart Reading | *Danqing Shi et al.*    | [📜 Paper](https://arxiv.org/abs/2502.03575)
         |   2025   |      WACV      | TPP-Gaze: Modelling Gaze Dynamics in Space and Time with Neural Temporal Point Processes | *Alessandro D'Amelio et al.*    | [📜 Paper](https://arxiv.org/abs/2410.23409) / [Code :octocat:](https://github.com/phuselab/tppgaze)
         |   2024   |      ECCV      | GazeXplain: Learning to Predict Natural Language Explanations of Visual Scanpaths | *Xianyu Chen et al.*    | [📜 Paper](https://arxiv.org/abs/2408.02788) / [Code :octocat:](https://github.com/chenxy99/GazeXplain)
         |   2024   |      ECCV      | Look Hear: Gaze Prediction for Speech-directed Human Attention | *Sounak Mondal et al.*    | [📜 Paper](https://arxiv.org/pdf/2407.19605) / [Code :octocat:](https://github.com/cvlab-stonybrook/ART)
@@ -157,6 +158,7 @@ This repository contains a curated list of research papers and resources focusin
  
             | **Year** | **Conference / Journal** | **Title** | **Authors** | **Links** |
             |:--------:|:--------------:|:---------:|:-----------:|:---------:|
+           |   2025   | ICLR | Seeing Eye to AI: Human Alignment via Gaze-Based Response Rewards for Large Language Models |      *Angela Lopez-Cardona et al.*       | [📜 Paper](https://arxiv.org/abs/2410.01532) / [Code :octocat:](https://github.com/Telefonica-Scientific-Research/gaze_reward)
             |   2023   | EMNLP | Pre-Trained Language Models Augmented with Synthetic Scanpaths for Natural Language Understanding |      *Shuwen Deng et al.*       | [📜 Paper](https://aclanthology.org/2023.emnlp-main.400.pdf) / [Code :octocat:](https://github.com/aeye-lab/EMNLP-SyntheticScanpaths-NLU-PretrainedLM)
             |   2023   | EACL | Synthesizing Human Gaze Feedback for Improved NLP Performance |      *Varun Khurana et al.*       | [📜 Paper](https://aclanthology.org/2023.eacl-main.139.pdf)
             |   2020   | NeurIPS | Improving Natural Language Processing Tasks with Human Gaze-Guided Neural Attention |      *Ekta Sood et al.*       | [📜 Paper](https://proceedings.neurips.cc/paper_files/paper/2020/file/460191c72f67e90150a093b4585e7eb4-Paper.pdf) / [Project Page](https://perceptualui.org/publications/sood20_neurips/)
